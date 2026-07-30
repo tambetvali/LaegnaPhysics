@@ -727,6 +727,8 @@ This produces a complete hologram‑ready geometric layout consistent with Laegn
 
 # Shader Logic and SVG Primitives for Laegna Octave Visualization
 
+![Abstract](Graphics/Abstract.png)
+
 ## Coordinate Normalization
 
 All geometry is defined inside a normalized radius domain:
@@ -956,6 +958,8 @@ This produces a complete hologram‑ready rendering pipeline for Laegna’s boun
 
 # Relativity Projected Into Laegna’s Bounded Octave Geometry
 
+![Abstract2](Graphics/Abstract2.png)
+
 ## 1. Relativistic Limits as Finite Boundaries
 
 In standard relativity, velocity satisfies
@@ -1068,6 +1072,10 @@ $$
 This unifies physical, computational, and philosophical perspectives.  
 It makes relativistic limits **visible**, **bounded**, and **layered**,  
 while preserving their essential behavior.
+
+---
+
+![LaegnaRelativity](Graphics/LaegnaRelativity.png)
 
 # Laegna Octaves and Quantum Realms  
 ## A Scientific, Formulation-Oriented View
@@ -1261,3 +1269,7 @@ It offers a way to see:
 - both as consequences of how space is structured across scales.
 
 This is promising conceptually, but requires further formal development to become a fully accepted mathematical physics framework.
+
+---
+
+![LaegnaRelativity2](Graphics/LaegnaRelativity2.png)
