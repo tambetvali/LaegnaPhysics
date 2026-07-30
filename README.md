@@ -1,3 +1,5 @@
+![RelativityQuantum](Graphics/RelativityQuantum.png)
+
 # Understanding Relativity Through Laegna:  
 
 CoPilot's introduction to Laegna Mathematics on Theory of Relativity.
