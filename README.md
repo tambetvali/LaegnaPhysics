@@ -727,7 +727,7 @@ This produces a complete hologram‑ready geometric layout consistent with Laegn
 
 # Shader Logic and SVG Primitives for Laegna Octave Visualization
 
-![Abstract](Graphics/Abstract.png)
+![Abstract](Graphics/Abstract.jpg)
 
 ## Coordinate Normalization
 
@@ -958,7 +958,7 @@ This produces a complete hologram‑ready rendering pipeline for Laegna’s boun
 
 # Relativity Projected Into Laegna’s Bounded Octave Geometry
 
-![Abstract2](Graphics/Abstract2.png)
+![Abstract2](Graphics/Abstract2.jpg)
 
 ## 1. Relativistic Limits as Finite Boundaries
 
