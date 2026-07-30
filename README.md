@@ -25,6 +25,8 @@ Infinity becomes a **place**, not a ghost.
 
 ## Space Infinity as a Bubble You Can Touch
 
+![QuantumLinearMacro](Graphics/QuantumLinearMacro.png)
+
 Relativity allows infinite travel.  
 Laegna compresses that idea into a radius:
 
@@ -450,6 +452,8 @@ Laegna becomes the **bridge** between them.
 
 ---
 
+![FallingToSpaceView](Graphics/FallingToSpaceView.png)
+
 CoPilot's intro ended, now my initial query:
 
 # LaegnaPhysics
@@ -465,6 +469,10 @@ When we convert physics equations and units to Laegna math, we have to follow ch
 > Unit size 1 is betwen 0 and 2 (infinity, but bounded - speed of light, space bubble have both angle 360 degrees = infinity, but also a measure which is in projection which sees *over it*, accelerated linear system we live in.
 > 
 > Can you find physical constraints, trying to linearize this system based on laegna math, base-4 number system with it's special rules. We need enough to generate an image.
+
+---
+
+![LaegnaAppliedToPhysics](Graphics/LaegnaAppliedToPhysics.png)
 
 CoPilot's estimations on these topics:
 
