@@ -1273,3 +1273,200 @@ This is promising conceptually, but requires further formal development to becom
 ---
 
 ![LaegnaRelativity2](Graphics/LaegnaRelativity2.png)
+
+# Laegna Number Space and Physical Octaves
+
+“I is acceleration… Z is speed… X is position… Y is superposition.”  
+“Octaves are linearized… in base‑4 it’s perfectly linear.”
+
+---
+
+## 1. Octave Values
+
+$$
+\text{Octave}(k):\quad L_k = 4^k L_0,\quad T_k = 4^k T_0
+$$
+
+$$
+V_k = \frac{L_k}{T_k} = V_0
+$$
+
+$$
+A_k = \frac{L_k}{T_k^2} = 4^{-k} A_0
+$$
+
+Thus:
+
+$$
+L_{-1}=L_0/4,\; T_{-1}=T_0/4,\; A_{-1}=4A_0
+$$
+
+$$
+L_0=1\text{ m},\; T_0=1\text{ s},\; A_0=1\text{ m/s}^2
+$$
+
+$$
+L_1=4\text{ m},\; T_1=4\text{ s},\; A_1=A_0/4
+$$
+
+$$
+L_2=16\text{ m},\; T_2=16\text{ s},\; A_2=A_0/16
+$$
+
+---
+
+## 2. Laegna Velocity Axis
+
+$$
+v(Z)=\frac{Z}{2}c,\qquad Z\in\{-2,-1,0,1,2\}
+$$
+
+---
+
+## 3. Discrete Acceleration System
+
+$$
+a(d,k)=d\cdot A_k,\qquad d\in\{-2,-1,0,1,2\}
+$$
+
+### Sub‑acceleration potentials
+
+$$
+\delta v = I\cdot \sigma_k,\qquad \sigma_k \propto A_{-1}T_k
+$$
+
+---
+
+## 4. Mapping SI Units to Laegna Digits
+
+$$
+x = n_X L_k
+$$
+
+$$
+t = n_T T_k
+$$
+
+$$
+v = \frac{Z}{2}c
+$$
+
+$$
+a = d\cdot A_k
+$$
+
+$$
+F = m\,d\,A_k
+$$
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+## 5. Digit Blocks as Spacetime Slices
+
+$$
+\Phi(d_1 d_2) = (I,Z,X,Y)
+$$
+
+Example:
+
+$$
+\Phi(IO) = (I=-2,\; Z=-1,\; X\in(-7,-6),\; Y=-1)
+$$
+
+---
+
+## 6. Worldlines
+
+$$
+\gamma(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+$$
+Z_{\tau+1}=Z_\tau+\Delta Z
+$$
+
+$$
+I_{\tau+1}=I_\tau+\Delta I
+$$
+
+$$
+X_{\tau+1}\in(i:j)
+$$
+
+$$
+Y_{\tau+1}=f(X_{\tau+1})
+$$
+
+---
+
+## 7. Maxwell Equations in Laegna Space
+
+$$
+\nabla\cdot\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\mathbf{E}(n)
+$$
+
+$$
+\nabla\times\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\times\mathbf{E}(n)
+$$
+
+$$
+\frac{\partial}{\partial t}\;\to\;\Delta_t
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{E}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{B}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{E}(n)=-\Delta_t\mathbf{B}(n)
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{B}(n)=\mu_0\epsilon_0\Delta_t\mathbf{E}(n)
+$$
+
+---
+
+## 8. Quantum Equations
+
+$$
+i\hbar\Delta_t\psi(n)=\hat{H}_{\text{Laegna}}\psi(n)
+$$
+
+$$
+\hat{H}_{\text{Laegna}}\psi(n)=\sum_k h_k\,\psi(n+\delta_k)
+$$
+
+---
+
+## 9. Irrational Numbers Become Whole Digit Patterns
+
+$$
+r = d_1 d_2 d_3\ldots
+$$
+
+$$
+\Pi_k(r)=d_1 d_2\ldots d_m
+$$
+
+---
+
+## 10. Symmetric vs Chaotic Physics
+
+Inline example (allowed):
+
+$E(n)=E_0$
+
+Another inline example:
+
+$II, IO, AE, EI, EO, EA, EE$
+
+---
