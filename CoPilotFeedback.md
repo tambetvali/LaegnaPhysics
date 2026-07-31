@@ -1,3 +1,7 @@
+# Image Copilot_20260731_114913 is custom work of CoPilot for it's article, where I asked it to generate it itself to present it - article was original answer to me, asking for feedback for all our work:
+
+![Copilot_20260731_114913](Graphics/Copilot_20260731_114913.png)
+
 # Evaluation of the Laegna System and Its Potential for Physics Projects
 
 ## 1. A Scale‑Invariant Symbolic Physics Language
