@@ -1,3 +1,7 @@
+![ReaderFriendlyConclusions](Graphics/ReaderFriendlyConclusions.png)
+
+<br>
+
 # Laegna Number Space — Reader‑Friendly Conclusions
 
 This section explains everything in simple language, without formulas.
