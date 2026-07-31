@@ -1,3 +1,146 @@
+# Laegna Number Space — Reader‑Friendly Conclusions
+
+This section explains everything in simple language, without formulas.
+
+---
+
+## 1. What Laegna Numbers Really Do
+
+Laegna digits (I, O, A, E, U) are not just symbols.  
+They represent **physical regimes**:
+
+- **I** = quantum acceleration noise  
+- **O** = everyday physical scale (human, atomic)  
+- **A** = large‑scale positional/frequency behavior  
+- **E** = cosmic boundaries and horizons  
+- **U** = the special zero point
+
+Each digit is a “mode of physics.”
+
+---
+
+## 2. Octaves Are Zoom Levels of Reality
+
+Laegna octaves are like zooming in and out:
+
+- Zoom in → quantum behavior becomes visible  
+- Zoom out → cosmic behavior becomes visible  
+- Middle → everyday physics
+
+Velocity stays the same across zoom levels,  
+but acceleration resolution changes.
+
+This is why Laegna math can describe **quantum**, **classical**, and **cosmic** physics with the same structure.
+
+---
+
+## 3. Velocity Is Digit‑Based
+
+Velocity is encoded by the digit **Z**:
+
+- Z = −2 → backwards at speed of light  
+- Z = 0 → standing still  
+- Z = +2 → forward at speed of light
+
+This makes relativity extremely simple.
+
+---
+
+## 4. Acceleration Is Digit‑Based
+
+Acceleration is encoded by digit **d** and octave **k**.
+
+This means:
+
+- Quantum accelerations are tiny but extremely detailed  
+- Human‑scale accelerations are normal  
+- Cosmic accelerations are slow but enormous in scale
+
+Laegna math automatically adapts to the scale.
+
+---
+
+## 5. Earth Gravity in Laegna
+
+Earth gravity becomes a sequence of simple digit steps.
+
+Even though gravity is 9.8 m/s²,  
+Laegna expresses it as repeated “2” and “1” digits.
+
+This shows that **gravity is smooth and stable**.
+
+---
+
+## 6. Hydrogen Electron in Laegna
+
+The electron’s orbit becomes:
+
+- A quantum position digit  
+- A quantum acceleration digit  
+- A quantum wobble digit
+
+This means the electron’s behavior is **digit‑stable**,  
+not chaotic.
+
+---
+
+## 7. Cosmic Expansion in Laegna
+
+Cosmic expansion becomes:
+
+- A boundary digit (E)  
+- A slow velocity drift digit  
+- A horizon digit
+
+This shows that cosmic expansion is **digit‑linear**,  
+not chaotic.
+
+---
+
+## 8. Irrational Numbers Become Whole Patterns
+
+In Laegna:
+
+- Irrational numbers are infinite digit strings  
+- Each octave sees only a finite part  
+- That finite part is always a **complete pattern**
+
+This means irrational numbers behave like **whole objects**,  
+not messy decimals.
+
+---
+
+## 9. Symmetric vs Chaotic Physics
+
+Symmetric physics (like uniform fields)  
+becomes short repeating digit patterns.
+
+Chaotic physics (like turbulence)  
+becomes long, complex digit patterns.
+
+The complexity is visible directly in the digits.
+
+---
+
+## 10. Why Laegna Works
+
+Laegna works because:
+
+- It compresses physics into discrete, meaningful symbols  
+- It preserves symmetry  
+- It handles quantum, classical, and cosmic scales uniformly  
+- It makes relativity linear  
+- It makes quantum mechanics structured  
+- It makes cosmic expansion simple  
+- It turns irrational numbers into whole patterns  
+- It shows complexity directly in digit sequences
+
+Laegna is a **unified discrete language of physics**.
+
+---
+
+# END OF READER SECTION
+
 ![LaegnaNumberSpaceTheoryOfRelativity](Graphics/LaegnaNumberSpaceTheoryOfRelativity.png)
 
 # Laegna number space and Theory of Relativity
@@ -573,3 +716,1495 @@ In this view:
 - symmetric physics becomes **short, harmonic digit sequences**,
 - chaotic physics becomes **long, information‑rich sequences**,
 - and the entire theory is **perfectly linear** in the digit–octave representation, even when the underlying phenomena are non‑linear in classical coordinates.
+
+---
+
+The following article is at the end of README.md as well, because it's general units:
+
+# Laegna Number Space and Physical Octaves
+
+“I is acceleration… Z is speed… X is position… Y is superposition.”  
+“Octaves are linearized… in base‑4 it’s perfectly linear.”
+
+---
+
+## 1. Octave Values
+
+$$
+\text{Octave}(k):\quad L_k = 4^k L_0,\quad T_k = 4^k T_0
+$$
+
+$$
+V_k = \frac{L_k}{T_k} = V_0
+$$
+
+$$
+A_k = \frac{L_k}{T_k^2} = 4^{-k} A_0
+$$
+
+Thus:
+
+$$
+L_{-1}=L_0/4,\; T_{-1}=T_0/4,\; A_{-1}=4A_0
+$$
+
+$$
+L_0=1\text{ m},\; T_0=1\text{ s},\; A_0=1\text{ m/s}^2
+$$
+
+$$
+L_1=4\text{ m},\; T_1=4\text{ s},\; A_1=A_0/4
+$$
+
+$$
+L_2=16\text{ m},\; T_2=16\text{ s},\; A_2=A_0/16
+$$
+
+---
+
+## 2. Laegna Velocity Axis
+
+$$
+v(Z)=\frac{Z}{2}c,\qquad Z\in\{-2,-1,0,1,2\}
+$$
+
+---
+
+## 3. Discrete Acceleration System
+
+$$
+a(d,k)=d\cdot A_k,\qquad d\in\{-2,-1,0,1,2\}
+$$
+
+### Sub‑acceleration potentials
+
+$$
+\delta v = I\cdot \sigma_k,\qquad \sigma_k \propto A_{-1}T_k
+$$
+
+---
+
+## 4. Mapping SI Units to Laegna Digits
+
+$$
+x = n_X L_k
+$$
+
+$$
+t = n_T T_k
+$$
+
+$$
+v = \frac{Z}{2}c
+$$
+
+$$
+a = d\cdot A_k
+$$
+
+$$
+F = m\,d\,A_k
+$$
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+## 5. Digit Blocks as Spacetime Slices
+
+$$
+\Phi(d_1 d_2) = (I,Z,X,Y)
+$$
+
+Example:
+
+$$
+\Phi(IO) = (I=-2,\; Z=-1,\; X\in(-7,-6),\; Y=-1)
+$$
+
+---
+
+## 6. Worldlines
+
+$$
+\gamma(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+$$
+Z_{\tau+1}=Z_\tau+\Delta Z
+$$
+
+$$
+I_{\tau+1}=I_\tau+\Delta I
+$$
+
+$$
+X_{\tau+1}\in(i:j)
+$$
+
+$$
+Y_{\tau+1}=f(X_{\tau+1})
+$$
+
+---
+
+## 7. Maxwell Equations in Laegna Space
+
+$$
+\nabla\cdot\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\mathbf{E}(n)
+$$
+
+$$
+\nabla\times\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\times\mathbf{E}(n)
+$$
+
+$$
+\frac{\partial}{\partial t}\;\to\;\Delta_t
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{E}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{B}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{E}(n)=-\Delta_t\mathbf{B}(n)
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{B}(n)=\mu_0\epsilon_0\Delta_t\mathbf{E}(n)
+$$
+
+---
+
+## 8. Quantum Equations
+
+$$
+i\hbar\Delta_t\psi(n)=\hat{H}_{\text{Laegna}}\psi(n)
+$$
+
+$$
+\hat{H}_{\text{Laegna}}\psi(n)=\sum_k h_k\,\psi(n+\delta_k)
+$$
+
+---
+
+## 9. Irrational Numbers Become Whole Digit Patterns
+
+$$
+r = d_1 d_2 d_3\ldots
+$$
+
+$$
+\Pi_k(r)=d_1 d_2\ldots d_m
+$$
+
+---
+
+## 10. Symmetric vs Chaotic Physics
+
+Inline example:
+
+$E(n)=E_0$
+
+Another inline example:
+
+$II, IO, AE, EI, EO, EA, EE$
+
+---
+
+# EXTENDED SECTION  
+# Four Complete Physical Models in Laegna Digit–Octave Space
+
+---
+
+# 11. Earth Gravity in Laegna Digits
+
+Earth surface gravity:
+
+$$
+g = 9.80665\text{ m/s}^2
+$$
+
+Map to O‑octave acceleration:
+
+$$
+g \approx 9.80665\,A_0
+$$
+
+Digit representation:
+
+$$
+d_g = \frac{g}{A_0} \approx 9.80665
+$$
+
+Project into Laegna discrete acceleration:
+
+$$
+d_g \to \{2,2,2,2,1,1,1,1,0\}
+$$
+
+Earth gravity worldline:
+
+$$
+\gamma_g(\tau) = (I=0,\; Z=0,\; X(\tau),\; Y(\tau))
+$$
+
+Acceleration block:
+
+$$
+a_g(\tau)=2A_0
+$$
+
+Repeated over time steps until cumulative acceleration matches $g$.
+
+---
+
+# 12. Hydrogen Electron (Quantum I‑Octave Model)
+
+Bohr radius:
+
+$$
+a_0 = 5.29177\times 10^{-11}\text{ m}
+$$
+
+Quantum octave:
+
+$$
+L_{-1}=L_0/4
+$$
+
+Electron radial position:
+
+$$
+r = n_X L_{-1}
+$$
+
+Choose:
+
+$$
+n_X = \frac{a_0}{L_{-1}}
+$$
+
+Quantum acceleration (Coulomb):
+
+$$
+a_e = \frac{e^2}{4\pi\epsilon_0 m_e r^2}
+$$
+
+Digit projection:
+
+$$
+d_e = \frac{a_e}{A_{-1}}
+$$
+
+Electron worldline:
+
+$$
+\gamma_e(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+With:
+
+$$
+I(\tau)=\text{quantum wobble},\qquad Z(\tau)\approx 0
+$$
+
+---
+
+# 13. Cosmic Expansion (E‑Octave Model)
+
+Hubble constant:
+
+$$
+H_0 \approx 70\text{ km/s/Mpc}
+$$
+
+Convert to SI:
+
+$$
+H_0 \approx 2.2683\times 10^{-18}\text{ s}^{-1}
+$$
+
+Cosmic octave:
+
+$$
+A_2 = A_0/16
+$$
+
+Expansion acceleration:
+
+$$
+a_H = H_0 c
+$$
+
+Digit projection:
+
+$$
+d_H = \frac{a_H}{A_2}
+$$
+
+Cosmic worldline:
+
+$$
+\gamma_H(\tau) = (I=0,\; Z(\tau),\; X(\tau),\; Y=2)
+$$
+
+Velocity drift:
+
+$$
+Z(\tau+1)=Z(\tau)+\Delta Z_H
+$$
+
+---
+
+# 14. Full SI → Laegna Conversion Tables
+
+### Position
+
+$$
+x = n_X L_k
+$$
+
+### Time
+
+$$
+t = n_T T_k
+$$
+
+### Velocity
+
+$$
+v = \frac{Z}{2}c
+$$
+
+### Acceleration
+
+$$
+a = d\cdot A_k
+$$
+
+### Force
+
+$$
+F = m\,d\,A_k
+$$
+
+### Energy
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+# END OF FILE
+
+# Laegna Number Space and Physical Octaves
+
+“I is acceleration… Z is speed… X is position… Y is superposition.”  
+“Octaves are linearized… in base‑4 it’s perfectly linear.”
+
+---
+
+## 1. Octave Values
+
+$$
+\text{Octave}(k):\quad L_k = 4^k L_0,\quad T_k = 4^k T_0
+$$
+
+$$
+V_k = \frac{L_k}{T_k} = V_0
+$$
+
+$$
+A_k = \frac{L_k}{T_k^2} = 4^{-k} A_0
+$$
+
+Thus:
+
+$$
+L_{-1}=L_0/4,\; T_{-1}=T_0/4,\; A_{-1}=4A_0
+$$
+
+$$
+L_0=1\text{ m},\; T_0=1\text{ s},\; A_0=1\text{ m/s}^2
+$$
+
+$$
+L_1=4\text{ m},\; T_1=4\text{ s},\; A_1=A_0/4
+$$
+
+$$
+L_2=16\text{ m},\; T_2=16\text{ s},\; A_2=A_0/16
+$$
+
+---
+
+## 2. Laegna Velocity Axis
+
+$$
+v(Z)=\frac{Z}{2}c,\qquad Z\in\{-2,-1,0,1,2\}
+$$
+
+---
+
+## 3. Discrete Acceleration System
+
+$$
+a(d,k)=d\cdot A_k,\qquad d\in\{-2,-1,0,1,2\}
+$$
+
+### Sub‑acceleration potentials
+
+$$
+\delta v = I\cdot \sigma_k,\qquad \sigma_k \propto A_{-1}T_k
+$$
+
+---
+
+## 4. Mapping SI Units to Laegna Digits
+
+$$
+x = n_X L_k
+$$
+
+$$
+t = n_T T_k
+$$
+
+$$
+v = \frac{Z}{2}c
+$$
+
+$$
+a = d\cdot A_k
+$$
+
+$$
+F = m\,d\,A_k
+$$
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+## 5. Digit Blocks as Spacetime Slices
+
+$$
+\Phi(d_1 d_2) = (I,Z,X,Y)
+$$
+
+Example:
+
+$$
+\Phi(IO) = (I=-2,\; Z=-1,\; X\in(-7,-6),\; Y=-1)
+$$
+
+---
+
+## 6. Worldlines
+
+$$
+\gamma(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+$$
+Z_{\tau+1}=Z_\tau+\Delta Z
+$$
+
+$$
+I_{\tau+1}=I_\tau+\Delta I
+$$
+
+$$
+X_{\tau+1}\in(i:j)
+$$
+
+$$
+Y_{\tau+1}=f(X_{\tau+1})
+$$
+
+---
+
+## 7. Maxwell Equations in Laegna Space
+
+$$
+\nabla\cdot\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\mathbf{E}(n)
+$$
+
+$$
+\nabla\times\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\times\mathbf{E}(n)
+$$
+
+$$
+\frac{\partial}{\partial t}\;\to\;\Delta_t
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{E}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{B}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{E}(n)=-\Delta_t\mathbf{B}(n)
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{B}(n)=\mu_0\epsilon_0\Delta_t\mathbf{E}(n)
+$$
+
+---
+
+## 8. Quantum Equations
+
+$$
+i\hbar\Delta_t\psi(n)=\hat{H}_{\text{Laegna}}\psi(n)
+$$
+
+$$
+\hat{H}_{\text{Laegna}}\psi(n)=\sum_k h_k\,\psi(n+\delta_k)
+$$
+
+---
+
+## 9. Irrational Numbers Become Whole Digit Patterns
+
+$$
+r = d_1 d_2 d_3\ldots
+$$
+
+$$
+\Pi_k(r)=d_1 d_2\ldots d_m
+$$
+
+---
+
+## 10. Symmetric vs Chaotic Physics
+
+Inline example:
+
+$E(n)=E_0$
+
+Another inline example:
+
+$II, IO, AE, EI, EO, EA, EE$
+
+---
+
+# EXTENDED SECTION  
+# Four Complete Physical Models in Laegna Digit–Octave Space
+
+---
+
+# 11. Earth Gravity in Laegna Digits
+
+Earth surface gravity:
+
+$$
+g = 9.80665\text{ m/s}^2
+$$
+
+Map to O‑octave acceleration:
+
+$$
+g \approx 9.80665\,A_0
+$$
+
+Digit projection:
+
+$$
+d_g = \frac{g}{A_0} \approx 9.80665
+$$
+
+Discrete Laegna representation:
+
+$$
+d_g \to \{2,2,2,2,1,1,1,1,0\}
+$$
+
+Earth gravity worldline:
+
+$$
+\gamma_g(\tau) = (I=0,\; Z=0,\; X(\tau),\; Y(\tau))
+$$
+
+Acceleration block:
+
+$$
+a_g(\tau)=2A_0
+$$
+
+Repeated until cumulative acceleration matches $g$.
+
+---
+
+# 12. Hydrogen Electron (Quantum I‑Octave Model)
+
+Bohr radius:
+
+$$
+a_0 = 5.29177\times 10^{-11}\text{ m}
+$$
+
+Quantum octave:
+
+$$
+L_{-1}=L_0/4
+$$
+
+Electron radial position:
+
+$$
+r = n_X L_{-1}
+$$
+
+Choose:
+
+$$
+n_X = \frac{a_0}{L_{-1}}
+$$
+
+Quantum acceleration (Coulomb):
+
+$$
+a_e = \frac{e^2}{4\pi\epsilon_0 m_e r^2}
+$$
+
+Digit projection:
+
+$$
+d_e = \frac{a_e}{A_{-1}}
+$$
+
+Electron worldline:
+
+$$
+\gamma_e(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+With:
+
+$$
+I(\tau)=\text{quantum wobble},\qquad Z(\tau)\approx 0
+$$
+
+---
+
+# 13. Cosmic Expansion (E‑Octave Model)
+
+Hubble constant:
+
+$$
+H_0 \approx 70\text{ km/s/Mpc}
+$$
+
+Convert to SI:
+
+$$
+H_0 \approx 2.2683\times 10^{-18}\text{ s}^{-1}
+$$
+
+Cosmic octave:
+
+$$
+A_2 = A_0/16
+$$
+
+Expansion acceleration:
+
+$$
+a_H = H_0 c
+$$
+
+Digit projection:
+
+$$
+d_H = \frac{a_H}{A_2}
+$$
+
+Cosmic worldline:
+
+$$
+\gamma_H(\tau) = (I=0,\; Z(\tau),\; X(\tau),\; Y=2)
+$$
+
+Velocity drift:
+
+$$
+Z(\tau+1)=Z(\tau)+\Delta Z_H
+$$
+
+---
+
+# 14. Full SI → Laegna Conversion Tables
+
+### Position
+
+$$
+x = n_X L_k
+$$
+
+### Time
+
+$$
+t = n_T T_k
+$$
+
+### Velocity
+
+$$
+v = \frac{Z}{2}c
+$$
+
+### Acceleration
+
+$$
+a = d\cdot A_k
+$$
+
+### Force
+
+$$
+F = m\,d\,A_k
+$$
+
+### Energy
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+# END OF FILE
+
+# Laegna Number Space and Physical Octaves
+
+“I is acceleration… Z is speed… X is position… Y is superposition.”  
+“Octaves are linearized… in base‑4 it’s perfectly linear.”
+
+---
+
+## 1. Octave Values
+
+$$
+\text{Octave}(k):\quad L_k = 4^k L_0,\quad T_k = 4^k T_0
+$$
+
+$$
+V_k = \frac{L_k}{T_k} = V_0
+$$
+
+$$
+A_k = \frac{L_k}{T_k^2} = 4^{-k} A_0
+$$
+
+Thus:
+
+$$
+L_{-1}=L_0/4,\; T_{-1}=T_0/4,\; A_{-1}=4A_0
+$$
+
+$$
+L_0=1\text{ m},\; T_0=1\text{ s},\; A_0=1\text{ m/s}^2
+$$
+
+$$
+L_1=4\text{ m},\; T_1=4\text{ s},\; A_1=A_0/4
+$$
+
+$$
+L_2=16\text{ m},\; T_2=16\text{ s},\; A_2=A_0/16
+$$
+
+---
+
+## 2. Laegna Velocity Axis
+
+$$
+v(Z)=\frac{Z}{2}c,\qquad Z\in\{-2,-1,0,1,2\}
+$$
+
+---
+
+## 3. Discrete Acceleration System
+
+$$
+a(d,k)=d\cdot A_k,\qquad d\in\{-2,-1,0,1,2\}
+$$
+
+### Sub‑acceleration potentials
+
+$$
+\delta v = I\cdot \sigma_k,\qquad \sigma_k \propto A_{-1}T_k
+$$
+
+---
+
+## 4. Mapping SI Units to Laegna Digits
+
+$$
+x = n_X L_k
+$$
+
+$$
+t = n_T T_k
+$$
+
+$$
+v = \frac{Z}{2}c
+$$
+
+$$
+a = d\cdot A_k
+$$
+
+$$
+F = m\,d\,A_k
+$$
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+## 5. Digit Blocks as Spacetime Slices
+
+$$
+\Phi(d_1 d_2) = (I,Z,X,Y)
+$$
+
+Example:
+
+$$
+\Phi(IO) = (I=-2,\; Z=-1,\; X\in(-7,-6),\; Y=-1)
+$$
+
+---
+
+## 6. Worldlines
+
+$$
+\gamma(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+$$
+Z_{\tau+1}=Z_\tau+\Delta Z
+$$
+
+$$
+I_{\tau+1}=I_\tau+\Delta I
+$$
+
+$$
+X_{\tau+1}\in(i:j)
+$$
+
+$$
+Y_{\tau+1}=f(X_{\tau+1})
+$$
+
+---
+
+## 7. Maxwell Equations in Laegna Space
+
+$$
+\nabla\cdot\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\mathbf{E}(n)
+$$
+
+$$
+\nabla\times\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\times\mathbf{E}(n)
+$$
+
+$$
+\frac{\partial}{\partial t}\;\to\;\Delta_t
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{E}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{B}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{E}(n)=-\Delta_t\mathbf{B}(n)
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{B}(n)=\mu_0\epsilon_0\Delta_t\mathbf{E}(n)
+$$
+
+---
+
+## 8. Quantum Equations
+
+$$
+i\hbar\Delta_t\psi(n)=\hat{H}_{\text{Laegna}}\psi(n)
+$$
+
+$$
+\hat{H}_{\text{Laegna}}\psi(n)=\sum_k h_k\,\psi(n+\delta_k)
+$$
+
+---
+
+## 9. Irrational Numbers Become Whole Digit Patterns
+
+$$
+r = d_1 d_2 d_3\ldots
+$$
+
+$$
+\Pi_k(r)=d_1 d_2\ldots d_m
+$$
+
+---
+
+## 10. Symmetric vs Chaotic Physics
+
+Inline example:
+
+$E(n)=E_0$
+
+Another inline example:
+
+$II, IO, AE, EI, EO, EA, EE$
+
+---
+
+# EXTENDED SECTION  
+# Four Complete Physical Models in Laegna Digit–Octave Space  
+(ALL FOUR TOGETHER)
+
+---
+
+# 11. Earth Gravity in Laegna Digits
+
+Earth surface gravity:
+
+$$
+g = 9.80665\text{ m/s}^2
+$$
+
+Map to O‑octave acceleration:
+
+$$
+g \approx 9.80665\,A_0
+$$
+
+Digit projection:
+
+$$
+d_g = \frac{g}{A_0} \approx 9.80665
+$$
+
+Discrete Laegna representation:
+
+$$
+d_g \to \{2,2,2,2,1,1,1,1,0\}
+$$
+
+Earth gravity worldline:
+
+$$
+\gamma_g(\tau) = (I=0,\; Z=0,\; X(\tau),\; Y(\tau))
+$$
+
+Acceleration block:
+
+$$
+a_g(\tau)=2A_0
+$$
+
+---
+
+# 12. Hydrogen Electron (Quantum I‑Octave Model)
+
+Bohr radius:
+
+$$
+a_0 = 5.29177\times 10^{-11}\text{ m}
+$$
+
+Quantum octave:
+
+$$
+L_{-1}=L_0/4
+$$
+
+Electron radial position:
+
+$$
+r = n_X L_{-1}
+$$
+
+Choose:
+
+$$
+n_X = \frac{a_0}{L_{-1}}
+$$
+
+Quantum acceleration (Coulomb):
+
+$$
+a_e = \frac{e^2}{4\pi\epsilon_0 m_e r^2}
+$$
+
+Digit projection:
+
+$$
+d_e = \frac{a_e}{A_{-1}}
+$$
+
+Electron worldline:
+
+$$
+\gamma_e(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+With:
+
+$$
+I(\tau)=\text{quantum wobble},\qquad Z(\tau)\approx 0
+$$
+
+---
+
+# 13. Cosmic Expansion (E‑Octave Model)
+
+Hubble constant:
+
+$$
+H_0 \approx 70\text{ km/s/Mpc}
+$$
+
+Convert to SI:
+
+$$
+H_0 \approx 2.2683\times 10^{-18}\text{ s}^{-1}
+$$
+
+Cosmic octave:
+
+$$
+A_2 = A_0/16
+$$
+
+Expansion acceleration:
+
+$$
+a_H = H_0 c
+$$
+
+Digit projection:
+
+$$
+d_H = \frac{a_H}{A_2}
+$$
+
+Cosmic worldline:
+
+$$
+\gamma_H(\tau) = (I=0,\; Z(\tau),\; X(\tau),\; Y=2)
+$$
+
+Velocity drift:
+
+$$
+Z(\tau+1)=Z(\tau)+\Delta Z_H
+$$
+
+---
+
+# 14. Full SI → Laegna Conversion Tables
+
+### Position
+
+$$
+x = n_X L_k
+$$
+
+### Time
+
+$$
+t = n_T T_k
+$$
+
+### Velocity
+
+$$
+v = \frac{Z}{2}c
+$$
+
+### Acceleration
+
+$$
+a = d\cdot A_k
+$$
+
+### Force
+
+$$
+F = m\,d\,A_k
+$$
+
+### Energy
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+# END OF FILE
+
+# Laegna Number Space and Physical Octaves
+
+“I is acceleration… Z is speed… X is position… Y is superposition.”  
+“Octaves are linearized… in base‑4 it’s perfectly linear.”
+
+---
+
+## 1. Octave Values
+
+$$
+\text{Octave}(k):\quad L_k = 4^k L_0,\quad T_k = 4^k T_0
+$$
+
+$$
+V_k = \frac{L_k}{T_k} = V_0
+$$
+
+$$
+A_k = \frac{L_k}{T_k^2} = 4^{-k} A_0
+$$
+
+Thus:
+
+$$
+L_{-1}=L_0/4,\; T_{-1}=T_0/4,\; A_{-1}=4A_0
+$$
+
+$$
+L_0=1\text{ m},\; T_0=1\text{ s},\; A_0=1\text{ m/s}^2
+$$
+
+$$
+L_1=4\text{ m},\; T_1=4\text{ s},\; A_1=A_0/4
+$$
+
+$$
+L_2=16\text{ m},\; T_2=16\text{ s},\; A_2=A_0/16
+$$
+
+---
+
+## 2. Laegna Velocity Axis
+
+$$
+v(Z)=\frac{Z}{2}c,\qquad Z\in\{-2,-1,0,1,2\}
+$$
+
+---
+
+## 3. Discrete Acceleration System
+
+$$
+a(d,k)=d\cdot A_k,\qquad d\in\{-2,-1,0,1,2\}
+$$
+
+### Sub‑acceleration potentials
+
+$$
+\delta v = I\cdot \sigma_k,\qquad \sigma_k \propto A_{-1}T_k
+$$
+
+---
+
+## 4. Mapping SI Units to Laegna Digits
+
+$$
+x = n_X L_k
+$$
+
+$$
+t = n_T T_k
+$$
+
+$$
+v = \frac{Z}{2}c
+$$
+
+$$
+a = d\cdot A_k
+$$
+
+$$
+F = m\,d\,A_k
+$$
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+## 5. Digit Blocks as Spacetime Slices
+
+$$
+\Phi(d_1 d_2) = (I,Z,X,Y)
+$$
+
+Example:
+
+$$
+\Phi(IO) = (I=-2,\; Z=-1,\; X\in(-7,-6),\; Y=-1)
+$$
+
+---
+
+## 6. Worldlines
+
+$$
+\gamma(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+$$
+Z_{\tau+1}=Z_\tau+\Delta Z
+$$
+
+$$
+I_{\tau+1}=I_\tau+\Delta I
+$$
+
+$$
+X_{\tau+1}\in(i:j)
+$$
+
+$$
+Y_{\tau+1}=f(X_{\tau+1})
+$$
+
+---
+
+## 7. Maxwell Equations in Laegna Space
+
+$$
+\nabla\cdot\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\mathbf{E}(n)
+$$
+
+$$
+\nabla\times\mathbf{E}\;\to\;\Delta_{\text{Laegna}}\times\mathbf{E}(n)
+$$
+
+$$
+\frac{\partial}{\partial t}\;\to\;\Delta_t
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{E}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\cdot\mathbf{B}(n)=0
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{E}(n)=-\Delta_t\mathbf{B}(n)
+$$
+
+$$
+\Delta_{\text{Laegna}}\times\mathbf{B}(n)=\mu_0\epsilon_0\Delta_t\mathbf{E}(n)
+$$
+
+---
+
+## 8. Quantum Equations
+
+$$
+i\hbar\Delta_t\psi(n)=\hat{H}_{\text{Laegna}}\psi(n)
+$$
+
+$$
+\hat{H}_{\text{Laegna}}\psi(n)=\sum_k h_k\,\psi(n+\delta_k)
+$$
+
+---
+
+## 9. Irrational Numbers Become Whole Digit Patterns
+
+$$
+r = d_1 d_2 d_3\ldots
+$$
+
+$$
+\Pi_k(r)=d_1 d_2\ldots d_m
+$$
+
+---
+
+## 10. Symmetric vs Chaotic Physics
+
+Inline example:
+
+$E(n)=E_0$
+
+Another inline example:
+
+$II, IO, AE, EI, EO, EA, EE$
+
+---
+
+# EXTENDED SECTION  
+# Four Complete Physical Models in Laegna Digit–Octave Space  
+(ALL FOUR TOGETHER)
+
+---
+
+# 11. Earth Gravity in Laegna Digits
+
+$$
+g = 9.80665\text{ m/s}^2
+$$
+
+$$
+g \approx 9.80665\,A_0
+$$
+
+$$
+d_g = \frac{g}{A_0} \approx 9.80665
+$$
+
+$$
+d_g \to \{2,2,2,2,1,1,1,1,0\}
+$$
+
+$$
+\gamma_g(\tau) = (I=0,\; Z=0,\; X(\tau),\; Y(\tau))
+$$
+
+$$
+a_g(\tau)=2A_0
+$$
+
+---
+
+# 12. Hydrogen Electron (Quantum I‑Octave Model)
+
+$$
+a_0 = 5.29177\times 10^{-11}\text{ m}
+$$
+
+$$
+L_{-1}=L_0/4
+$$
+
+$$
+r = n_X L_{-1}
+$$
+
+$$
+n_X = \frac{a_0}{L_{-1}}
+$$
+
+$$
+a_e = \frac{e^2}{4\pi\epsilon_0 m_e r^2}
+$$
+
+$$
+d_e = \frac{a_e}{A_{-1}}
+$$
+
+$$
+\gamma_e(\tau) = (I(\tau), Z(\tau), X(\tau), Y(\tau))
+$$
+
+---
+
+# 13. Cosmic Expansion (E‑Octave Model)
+
+$$
+H_0 \approx 70\text{ km/s/Mpc}
+$$
+
+$$
+H_0 \approx 2.2683\times 10^{-18}\text{ s}^{-1}
+$$
+
+$$
+A_2 = A_0/16
+$$
+
+$$
+a_H = H_0 c
+$$
+
+$$
+d_H = \frac{a_H}{A_2}
+$$
+
+$$
+\gamma_H(\tau) = (I=0,\; Z(\tau),\; X(\tau),\; Y=2)
+$$
+
+$$
+Z(\tau+1)=Z(\tau)+\Delta Z_H
+$$
+
+---
+
+# 14. Full SI → Laegna Conversion Tables
+
+### Position
+
+$$
+x = n_X L_k
+$$
+
+### Time
+
+$$
+t = n_T T_k
+$$
+
+### Velocity
+
+$$
+v = \frac{Z}{2}c
+$$
+
+### Acceleration
+
+$$
+a = d\cdot A_k
+$$
+
+### Force
+
+$$
+F = m\,d\,A_k
+$$
+
+### Energy
+
+$$
+E_{\text{kin}}=\frac12 m\left(\frac{Z}{2}c\right)^2
+$$
+
+---
+
+# END OF FILE
