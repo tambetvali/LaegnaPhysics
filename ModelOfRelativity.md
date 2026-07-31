@@ -1,3 +1,5 @@
+![LaegnaNumberSpaceTheoryOfRelativity](Graphics/LaegnaNumberSpaceTheoryOfRelativity.png)
+
 # Laegna number space and Theory of Relativity
 
 Let's create a model of space.
