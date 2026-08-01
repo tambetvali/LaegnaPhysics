@@ -1,3 +1,5 @@
+![DirectionalInfinityOfLight](Graphics/DirectionalInfinityOfLight.png)
+
 # **Introduction: Geometrizing Light, Mass, Energy, and Direction in Laegna Space**
 
 *Introduction by CoPilot.*
