@@ -58,16 +58,48 @@ I is number, I" is projection - II is number, II" is projection. Number in Laegn
 Single digit:
 - I is -2; I" is -2.
 - O is -1; I" is -1.
-- A is 1
-- E is 2
+- A is 1; A" is 1.
+- E is 2 A" is 2.
 
 Two digits *project to* nonlinear arrangement in space X:
-- in II, projection
+- in II is -4, projection II" is -16.
+- in OO is -1, projection OO" is -1
+- in AA is 1, projection AA" is 1
+- in EE is 4, projection EE" is 16.
+
+Laegna complex digit is used:
+```
+- GFEH: complex (-2 + -2; -2 + -1, -2 + 1, -2 + 2); real (13, 14, 15, 16)
+- CBAD: complex (-1 + -2; -1 + -1, -1 + 1, -1 + 2); real (9,  10, 11, 12)
+- QPOR: complex ( 1 + -2;  1 + -1,  1 + 1,  1 + 2); real (5,   6,  7,  8)
+- KJIL: complex ( 2 + -2;  2 + -1,  2 + 1,  2 + 2); real (1,   2,  3,  4)
+- Numbers represent lifelike qualities and rather, from bottom-up is growth and first row is the most important line.
+  - Infinity: spirituality, meaning, worth, quality, grows upwards. This is spiritual, goal-based, yang logic.
+  - Finity: materiality, lines of text, row numbering, paragraphs and abstract pixels grow downwards and content or data is added to bottom, in growing indexor system or unique index. This is database, screen, text or listing, register or index, and graphs would grow downwards: for example, as your log grows, the line on screen gets closer to minus infinity which is the ultimate, actual, database, like Library of Babylon of Borges.
+```
+
+Lane Geometry ([repo](https://github.com/tambetvali/LaeLane/)) and Laegna Wave Numbers ([Sheep Counter 3](https://spireason.neocities.org/#sheep)) follow. This is also based on SimplyAboutInfinities and laGEOsis repos and explanations of such projections, as well as other branches of Laegna Math can only extend this view starting from Laegna and SpiReason (cognitive science) at given pages.
 
 It projects exactly to boundary bubble of space:
 - At minus infinity of linear time, light particle is positioned to center zero.
 - It moves now in any direction at speed of e.
-- 
+
+We can see linear growth is split in middle from linear to exponent - octave-wise, linear-exponent symmetry of -1, 0, 1 remains the same, and on exponent band, where *2 is applied independently* in case of octaves *if two-band representation of number is used, where sometimes we optimize it to count linearly which is hard here*. In two channels, it's two-dimensional system, where each dimension - rows and columns - are multiplied by 2 in digit-wise scoping, where base-2 repeated symmetries keep two-band octaves exactly precise in this system, if they originally were. Each digit length restarts counting, omits zero in positional digit system (it's limit value or precisional limit value, and written in same digit length to measurement precision system; but almost hard to hit; -1 and +1 contain two-width slice of the typical discrete zero which counts as two numbers - Ai to Ae counts from +0.00 to +0.EE, Oi to Oe counts to -0.EE to -0.00; direction of i to e is always from smaller to bigger).
+
+We can see:
+- O and A: actually hold to logarithm, as their limit *opens to bottom*
+- I and E: actually hold to exponent, as their limit *opens to top*.
+- While in Laegna Standard Number System, first digit only reflects on it; in Laegna Wave System digits are enchanced to always open to closer, either O and A open to middles or I and E to extremes, and if you do infinite recursion you absolutely keep also the direction of growth. This is Sheep Counter 3, it's associated json files, code and repositories: [Inference Counter](https://spireason.neocities.org/Playground/InferenceCounter/) and it's called inference counter, because it's perfect for light particles and wave behaviours.
+
+Outside eternity:
+- Under quantum realm, there is sub-precision attachment to probability field and future estimation.
+- Over astrophysics, and over the graphlike structure above which reminds classes of quantities, where only ultimately repeating patterns leave their repetition and growth patterns - beyond that, the higher balancing field must appear, aligned to Schroedinger, superposition effects, which either delay or predict: as this physical force exists, this growth factor becomes *perfectly synchronized*, because the mathematical octave-relation where this frequency projects, like sub-threshold quantum realm directly projects to numeric sub-threshold where numbers also show they are *partial*, and multiple digits behave like single digits, so single digit is precise encoder of potential - real in it's own scope, but *potential in higher scope where it related to approaching mircohorizons*. As physical fields *commonly do it inside viable mathematical projections, because these effects do not project otherwise or otherwere, but are real mathematical demands outside the material field, the consequence-behavioural path*, the extension to Legos - and quantum realm below which start to look like reality is processing logic there, so I relate to classic word "Logos" - at higher quantum spaces above the superatom, where eternity or space (less dimensions of infinity - eternity adds dimension of time, keeps exact same single-dimension and dimension-meaningful relations, and in Lane Geometry of linexp numbers, where *each longer digit sequence keeps exponent and linear relations to boundary values of this single digit length, omits zero and restarts counting at each, thus this digit length R*).
+
+Last rule:
+- -1, 0, 1 keep linear superpositions, invariants; middle values -0.5 and 0.5, regards to -2 and 2, are not this: they become linear to exponentiation at next digit. 0.25, square of 0.5, is linear if we keep unit value and see it's exponent now to represent that 0.5 repeated by half infinities of infinitesimals to make it larger and larger, is finally 0.25: this is very believable that 2\*2 becomes 4, and almost topological if 1\*1 becomes square: without counting dimensions, the error is visible if finally, \*the square of sides 1 length would have the same volume and side length, but if we count infinitesimals inside this number, we can see how spatial information and dimensionality is lost\*. 1 square, in Laegna, precisely means the unit will be squared: so it remains 1^2, and does not simplify to 1. 0 squared, infinity squared - each follows the pattern. Eventually, they can be *written with two digits*: A squared is AA, AA squared is AAAA, E squared is EE, and what I like to call square root in Laegna, but we keep Latin-based: O squared is OO, *side length is growing negatively of negative value, but if you scope it up it's not above as below - instead, we see if we zoom in, we are still doing an opposite operation altough we managed to zoom that much in to find negative numbers*.
+
+Theory of Relativity, Quantum Theory follows many Laegna Number Properties: from infinity of Laegna Logecs combinations, how much does the future physics do, even in terms of being simple, imagined, modelled and visualized, presented as math-becomes-a-visual-art from pure academic notation? Isn't this the Laegna ultimate freedom: from below-zero to super-infinity, from spirituality to physics, we can decide what and how and in what way to believe, or even to respect, using visualized, internally coherent math which can linearly scope to simplify complex thing into hologram - encode number digits as colors in photoshop, into long-long number, rescale the number to 4 digits, and the *result is just fine*; use the same conversion in 2 channels, and the result is: 1) very fine 2) you can extend it tautologically, even with auto-theorem-prover-and-combinator-implementor, which makes the simple representation *symmetric to more and more, with better-and-better-chosen-and-interpreted-digits*; for example your question: I want to see my life curve in simple oscillation pattern in accumulative system such as exponent, with it's linear component, such as everyday actions as little accumulation of money and preservance of some stability?
+- But here, we are interested in Quantum Extensions and Theory of Relativity converted to Laegna Math.
 
 ---
 
