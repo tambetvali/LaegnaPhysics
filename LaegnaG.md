@@ -1,3 +1,5 @@
+![LaegnaGravityOrders](Graphics/LaegnaGravityOrders.png)
+
 I asked CoPilot:
 
 > can you write an article Laegna G: through those transformations, explain what is done from 1 to 4, maybe 5 to show how the complexity grows further; what can be done with each physics, what is modelled, how the world and other symmetric things look like and would people use it for fun or something if not for other things, if it was typical model metavalue?
