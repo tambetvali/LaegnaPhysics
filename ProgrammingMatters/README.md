@@ -1,3 +1,7 @@
+![Caption](Gfx/AndProgrammingMattersCaption.png)
+
+<br>
+
 Intro by CoPilot:
 
 # Why Another View of Physics Might Be Needed
