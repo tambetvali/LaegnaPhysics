@@ -582,6 +582,10 @@ But a search for the architecture connecting the pieces that are already visible
 
 ---
 
+![Image 1](Gfx/ProgrammingMatters1.jpg)
+
+<br>
+
 My initial document:
 
 # This document is for Programming Matters
@@ -907,6 +911,8 @@ Ranks:
       - Laegna, still, is able to symmetrically lose precision - it never needs infinite precision; it only needs all known details and it gives what it is.
 
 ---
+
+![Image 2](Gfx/ProgrammingMatters2.jpg)
 
 CoPilot:
 
@@ -2800,3 +2806,7 @@ Repeat.
 ```
 
 And perhaps the most interesting possibility is that, after centuries of treating space, matter, information and computation as separate subjects, they may eventually turn out to be different views of the same deeper relational geometry.
+
+<br>
+
+![Ending](Gfx/ProgrammingMattersEnding.png)
