@@ -1037,6 +1037,10 @@ and hidden curvature may exist both inward and outward.
 
 ---
 
+![Image 4](Gfx/ProgrammingMatters4.jpg)
+
+<br>
+
 ## Intuitive Proof of Internal and External Curvature
 
 Consider a circle.
@@ -1495,6 +1499,10 @@ with corrections for internal and external projection.
 This is only a working hypothesis, but it appears consistent with the current programming goals.
 
 ---
+
+![Image 3](Gfx/ProgrammingMatters3.jpg)
+
+<br>
 
 ## Practical Applications
 
