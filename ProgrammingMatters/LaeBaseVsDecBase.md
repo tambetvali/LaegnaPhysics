@@ -2,6 +2,14 @@
 
 <br>
 
+> Decimal system optimizes linear systems in local domain.
+>
+> Laegna optimizes high-complexities into linear, simple view.
+>
+> Both live where they are.
+
+<br>
+
 # Laegna vs. Decimal system
 
 Notice that Laegna Number System is not to drop decimal system.
