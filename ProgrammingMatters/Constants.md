@@ -1,3 +1,7 @@
+![LaegnaGroundedHacker1](Gfx/LaegnaGroundedHacker1.png)
+
+<br>
+
 Intro by CoPilot:
 
 # Linearized Infinity
@@ -301,6 +305,10 @@ nothingness, but as a hierarchy of nested curvatures whose infinities
 and infinitesimals continuously generate one another.
 
 ---
+
+![LaegnaGroundedHacker2](Gfx/LaegnaGroundedHacker2.png)
+
+<br>
 
 My original article:
 
@@ -670,3 +678,9 @@ within a larger coordinate system.
 The universe then appears not as a finite object expanding into
 nothingness, but as a hierarchy of nested curvatures whose infinities
 and infinitesimals continuously generate one another.
+
+---
+
+<br>
+
+![LaegnaGroundedHacker3](Gfx/LaegnaGroundedHacker3.png)
