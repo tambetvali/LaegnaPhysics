@@ -1,3 +1,5 @@
+![LaegnaCosmicFerry](Gfx/LaegnaCosmicFerry.png)
+
 # Hello World!
 
 > Welcome onboard the Laegna Cosmic Ferry.
