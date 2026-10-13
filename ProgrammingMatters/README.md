@@ -1,3 +1,8 @@
+Here are two subsequent parts, voyage through basic constant approximators and simplified models, as well as spiritual transcript based on daoist physical, rather than buddhist mental models:
+- [B-52 Takeoff](https://github.com/tambetvali/LaegnaPhysics/blob/main/ProgrammingMatters/B-52Takeoff.md) - symbolizes leaving of Earth, some local models.
+- Then we onboard on your Laegna Private Ferry:
+  - [Laegna Voyage to Infinity](https://github.com/tambetvali/LaegnaPhysics/blob/main/ProgrammingMatters/VoyageOnLaegnaFerry.md) - is the complete voyage beyond the stars and above.
+
 ![Caption](Gfx/AndProgrammingMattersCaption.png)
 
 <br>
