@@ -1197,3 +1197,136 @@ How focus and stretching occurs:
 
 Next technical part:
 
+In number 8, let's now *decode* the rank system we have:
+
+> I have yet been basing on most simple attitude to their numbers, rather than proof.
+>
+> The following content is the first experiment - are the most trivial relations true.
+>
+> "000000" - a significant decimal relation.
+>
+> "16" - a significant binary relation.
+
+## 000000000
+
+Let's rank:
+- I: 0.0001 - rank minus "000". I to E
+- O: 1000.0 - rank plus "000". II to EE
+- A: 1000,000.0 - rank plus "000 000". III to EEE
+- E: 1000,000,000.0 - rank plus "000 000 000". IIII to EEEE
+- This maps to *rank calculation on log-10 and exp-10, in 3 unit groups.
+  We got 4 Laegna ranks in base-4 system:
+  - Unit size maps to second number, but 1.
+  - Below unit size we thus also use -1, the first negative range from -1 to 0, before range from 0 to 1 - range directions meet in laegna zeroless number.
+
+We must state:
+- H_ext is Hilbert's external space
+- Two-dimensional octave, recurring 4-based and not 2-based octave growth where base frequency is rank-relational, converted directly to Laegna base-4 letters.
+
+This part is exponential while logarithm-exponent range is linearized, exp level from 10 decides the actual ranks.
+
+### Laegna-max rank:
+
+This rank system is Laegna maximal:
+- I: 1 / 1 000 000 000 - planck of given rank
+- O: 1 / 1 000 - linear up
+- V: Dao, hard-to-calculate interpolation point, scope-in variable.
+- A: 1 000 / 1 - linear down
+- E: 1 000 000 000 / 1 - maximal space rank.
+
+This means 1 to 4, and 5 to 8 (ranges 14 and 48 as I call them, in continuous metaphor and linguistic sound effect):
+- 1 to 4: exactly the low rank.
+- 5 to 8: exactly the high rank.
+
+Space curvature, in this model, is symmetrically transposed and equivalent. Single factor of some bits are transposed in certain general matrix of row-column disposition patterns; all the physics models work.
+
+## 16
+
+Let's rank:
+- I: 1 i to e
+- O: 2 ii to ee
+- A: 4 iii to eee
+- E: 8 iiii to eeee
+
+This is base-2 rank and in 8-system, we can now see: in the *intermediate bit*, amoebian or möebius conversion exists:
+- Scalars below the rank.
+- Vector-based operation relation takes over with second bit, second change line.
+
+We can see: related to other system, it flips like scalar and vector calculus:
+- Here we use scalar calculus, where 0 is at center, using base-2, prime 2, easily symmetric to decimals which are evolved.
+- In other, 1000-group system, we used exponent and efficiently, moved to second order system where vector calculus has: not *more* octaves as in base cange lines, but *more*.
+
+# Laegna Simple Models
+
+Space ship removes complexity:
+- 16 000 000 000
+- Exact number we are interested in
+- Not ~16,000,000,000 - approx this number. Rather, real physics appears in small precision coefficient, yet mappable in this number system, linearly very close - this is the interface which uses simple 4-letter model.
+
+This is simple growth linearly from small letters to capital letters:
+- Using both as H_int and H_ext as *separate* variables, one could raise complexity by half octaves for both, one octave for their average, reaching a complex physical system with many axes.
+
+# What about the last constant?
+
+g should be just the basis of space and time.
+
+1 light year: well this is value of "E". light speed, then, is value of "I".
+
+The "E" values are known now - "E" is our physical horizon of human scale "0" or rank-1; "EE" is the tradition scale "00" and "EEE" is the civilization projection "000"; while "EEEE" is civilization itself: "000 000 000" horizon is extreme!
+
+# What about expanding space?
+
+It's included:
+- Time goes external in light, internal in matter, constant-symmetrically:
+  - Moving the whole coordinate system to distance-symmetric elevation in octaves, integral levels;
+    - Projects existing infinite trajectories to their logarithms of whole functions, efficiently they end before the actual infinity relation -
+      - The exponent space is lift-up, the elevating system.
+
+Planck's constant:
+- They approach differently at each space;
+  - Being efficiently zero at each scale.
+
+# Rank system
+
+Ranks 1, 2, 3 are octaves 1, 2, 4 are superoctaves 1, 4, 8 are three bits in 1, 2 to 3, 4 to 8; and form 64 hexagrams.
+
+I Ching writing:
+- I, O, A, E on first line: first line of both hexagrams, heaven above.
+- Next letter: second lines of both hexagrams.
+- Next letter: third lines.
+
+Now the external scale switches between 14 and 58:
+- 14 - +. plus
+- 58 - multiplication. ×
+- -58 - division. ÷
+- -14 - -. minus
+
+# Spiritual value
+
+This is Voyage on Laegna Ferry: to infinity.
+
+This is Laegna contemplation on Space:
+- Symbolic Voyage to Programmers.
+
+Feel free to build your symbolic models!
+- Feel free to call them Laegna Ships.
+- Each coin, each resolved tensor knot, is the long-term voyage in Infinite Space.
+- Study that infinity-consistent journey is always exponentially elevating already exponent growth building exponent even on them:
+  - This builds infinity.
+  - Infinity is:
+    - Schroedinger's field with honour!
+
+# Spirit
+
+I Ching reading is spiritual:
+- The positive value is how our potential pathways project;
+  - Longer and longer visions in I Ching scales, journeys through infinity and vision!
+ 
+# Heaven and Earth
+
+The linear projection through two scopes:
+- The external space, with one exponent-linearized line, actually projects hologram head, a "Heaven".
+
+The exponential projection, where int-ext space take their unit to square, where the second 2 in 2^2 of this operation is int and ext position both in square root aligned coordinate system, where 2 in both yields 2 - Laegna utilizes "M N S T" coordinate system for such alignment.
+- The material space - going to infinity is not vague expansion in scope, but linear line is projected for each precision.
+
