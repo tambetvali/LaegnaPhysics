@@ -1,3 +1,7 @@
+![DecimalPositions](Gfx/DecimalPositions.png)
+
+<br>
+
 # Laegna vs. Decimal system
 
 Notice that Laegna Number System is not to drop decimal system.
