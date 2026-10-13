@@ -1120,3 +1120,80 @@ Fine enough Voyagers.
 > You can study LaeChing programming constants which will be the unit basis:
 > - https://github.com/tambetvali/LaeChing/tree/main/Programming
 
+Notice: Physical model of Laegna might differ from LaeChing model, because material model counts a little differently from spiritual one. This is a symbolic difference, but for example typical AI bias is to consistently express Laegna spiritual models in this material order, for self-consistency and simplicity, unless instructed explicitly: only spiritual model without material analogy is present. This is the case where material-physics patterns see different orders (main difference - me, spirit field of projected mental coordinates is outside, beyond the horizon; AI: it's inside, inside the brain / mind, the smallest. In Laegna math these are exact relations which allow this without any distortion in space curvatures, because bits are used correctly and bands can be interchanged without change in most fundamental metageometry - the invariant geometry of number system itself, and it's relations of digits, positions and values which remain invariant, internally consistent - but allow some customization, which can be converted by basic operations in all cases I intuitively picked as somewhat symmetry-relating inside my domains of test basis; altough close-precision as this physics document).
+
+We take standard, symmetric Laegna base-8 number system:
+- 0: Zoom level infinitely closer, so that what was infinitesimal, the lowest bound of linear realm - becomes infinity. This is logarithm, Z.
+- 18: Zoom level right now, X:
+  - 💙⚔❤️ 1 to 4: Earth in I Ching (Lower Hexagram - multiply vs. substract):
+    - ☷🟡 1 i - Earth.
+    - ☳🔴 2 o - Thunder.
+    - ☵🟢 3 a - Water.
+    - ☱🔵 4 e - Lake.
+  - 💚⚔💛 5 to 8: Heaven in I Ching (Higher Hexagram - add vs. divide):
+    - ☶🟨 5 I - Mountain.
+    - ☲🟥 6 O - Fire.
+    - ☴🟩 7 A - Wind.
+    - ☰🟦 8 E - Heaven.
+- 9: Zoom level infinitely further, so what is now an infinity, becomes an infinitesimal - indivisible complexity of smooth linear line. Infinity scope Y.
+- Z, X, Y are operators one can use symbolically or write before numbers, or to create or study Laegna exact notations which meet their theorems or construct new theorem-solvable zones and analogical models in restricted domains.
+
+This is made by three bits:
+- Three lines, each worth of yin - earth or yang - heaven; higher or lower rank.
+  - Each rank is represented by an Octave.
+
+Numbers 1 to 8 can be represented by Laegna Square Root precision, where precision is raised from their rank 1.0 to rank 0.5:
+- Square root needs half-double precision downwards.
+- Hexagrams perfectly represent the space, whose matrix diagonal has all the rank zones.
+
+Now let's look the numbers:
+- Let's take 1 light year: this is the infinity condition at 1g, human scale, first rank, which can still be conquered *somehow*, through various inertial zones:
+  - E is rank-1 number and equals this.
+  - I equals infinitesimal, planck scale, at this unit.
+
+Now fourth order number:
+- Let's take ~16,000,000,000.
+
+I see instantly two rank scales present:
+- 16 is binary rank 3 in 4-based ranks or two-dimensional octaves.
+- "000,000,000" is decimal-perfect logarithmic rank of 3 in mile scale in my imaginary comparison:
+  - "0"-based digit groups: metric ranks, hour ranks, human-scale ranks. Human discrete activities and moods count as unit scale; immediate surroundings - 10m; 80 years of human life.
+  - "00"-based digit groups: kilometric ranks, month ranks, organization-scale ranks. Human lives count as unit scale; organization center surroundings - 100m; 800 years of tradition.
+  - "000"-based digit groups: milestone-macrometric ranks, year ranks, civilization-scale ranks. Human lives count as points; party meeting surroundings - 1000m, large hall of concert of parliament / senat, symbolizing the civilization; 2000 years from christ.
+
+Years from christ:
+- 1000 years; Christ civilization - -1.0 to 1.0, -4.0 to 4.0, symbolizing the whole length of half of signed time. 1000 years for first, 1000 for second *superrank*.
+- 800 years; Leonor's tradition - -4.0 to 4.0, manifesting the symbolic third rank; 100 => 200 => 400 => 800; music score: 110 => 220 => 330 => 440 (octaves).
+- 80 years; Jungian maturity: 40 years for four functions approx. 10 years each in statistical relation; 20 years for adulthood - rank 1, hologram self-projection to first 10, external accumulation at second 10, neanderthallean endings; 40 years is maturity - rank 2, 4 functions. - civilendings; 80 years in maturity - rank 3, 8 functions. - royal endings. At age 120, tradition year 1200, christian year 3000, circle is half-closed outwards and next linear function passes external space to infinity - because 3 yin lines are passed, the material existence; 3 yang lines are heavenly existence - while earthly linear tradition, civilization, lifetime passes in it's own linear metrics.
+
+---
+
+16 now gets divided to single double-exponent growth:
+- 1 - Matter (rank 1); ⚋ - -1 (O, Z) 🔴 Yin. Slice -1.0 to 0.0, point -0.0.
+- 4 - Earth (rank 2); ☯ - 0 (U, X), ⚫ Dao. Slice -0.5 to 0.5, point 0.0.
+- 16 - Heaven (rank 3); ⚊ - +1 (A, Y) 🟢 Yang. Slice 0.0 to 1.0, point +0.0..
+- Internal complexity grows into external complexity.
+- Dao consists in interpolation algorithm which linearizes the intermediate part - yin and yang external channels melt into one, into an octave.
+  - Dao zooms both in and out: binary system is used through ranks, forming multiple lines.
+
+Oscillations and accelerations for complete I Ching physics (Daoism - material; Buddhism - spiritual => physics material; Daoist-pure system):
+- ☯ Oscillation, standing wave ⬜ Element 5V: Spirit - such as metal, space, aether. Crown chakra.
+- ⚌ Light wave; yang remaining yang, acceleration 🟦 Element 4E: Fire - such as fire, air. Communication (40EA) and third eye chakras (45EE).
+- ⚎ Mass becoming light transmutation; yin becomes yang, focus and stretching 🟩 Element 3A: Air - such as air, fire. Heart chakra.
+- ⚍ Light becomeing mass transmutation; yang becomes yin, focuslessness and optimization 🟥 Element 2O: Water - such as water. Emotion (20OI) and will (25OO) chakras.
+- ⚏ Mass wave; yin remaining yin, expansion 🟨 Element 1I: Stone - such as earth, stone. Root chakra.
+
+How focus and stretching occurs:
+- Light speed as infinity pattern
+  - Pure direction;
+  - outside-in-force - self, H_int moves in relation to outside, the ecosystem network
+  - approaching direction in infinity, hibernation and flattening.
+- Unit mass as infinity pattern
+  - Lack of any direction: only infinitesimal force in *all directions in surrounding*
+  - inside-out-force - surroundings, H_ext move in relation to inside, the self
+  - approaching all directions at once - all directions, come closer, relative to infinitesimal-lightspeed at all these directions
+
+---
+
+Next technical part:
+
