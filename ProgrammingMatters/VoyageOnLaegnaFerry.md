@@ -1110,3 +1110,13 @@ while
 YU
 
 acts as the unresolved total horizon of the entire observable system.
+
+---
+
+Fine enough Voyagers.
+
+> This was your first introduction to classic course in constants we take as basis in Laegna physics.
+>
+> You can study LaeChing programming constants which will be the unit basis:
+> - https://github.com/tambetvali/LaeChing/tree/main/Programming
+
