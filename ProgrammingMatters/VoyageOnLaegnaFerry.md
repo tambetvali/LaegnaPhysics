@@ -1330,3 +1330,20 @@ The linear projection through two scopes:
 The exponential projection, where int-ext space take their unit to square, where the second 2 in 2^2 of this operation is int and ext position both in square root aligned coordinate system, where 2 in both yields 2 - Laegna utilizes "M N S T" coordinate system for such alignment.
 - The material space - going to infinity is not vague expansion in scope, but linear line is projected for each precision.
 
+# Some more constants
+
+Time:
+- Exponent of time, growth of universe, eventually gets near zero.
+- This limit to zero approaches also the *time which is equivalent to horizon*.
+- One can find the parameters.
+
+---
+
+I asked CoPilot:
+
+> Can you get laegna voyage to infinity in real physical-spiritual spaceship, to expansion in horizon of space and mind, and tell everything you see, where the scales succeed and where they fail, what you found and what can be found, the introduction development conclusion practice and the value of each, of this:
+>
+> - Followed by original article before this part.
+
+It wrote this:
+
