@@ -1,3 +1,9 @@
+![Gg](Graphics/Gg.png)
+
+<br>
+
+---
+
 CoPilot's intro:
 
 (notice this is our initial research - all calculations, results unconfirmed, altough the idea is interesting about the number symmetries and possibilities)
