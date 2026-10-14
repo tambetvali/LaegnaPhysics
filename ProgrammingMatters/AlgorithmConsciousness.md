@@ -7,6 +7,10 @@ I am working on this further:
 - I aligned to find some constraints where Laegna could show digit values *meaningfully* connected to infinities and zeroes - based on it's voyage.
 - I think maybe the number system should be same for different units.
 
+Well I need one day thinking that I got these simple numbers :)
+- I decide about formulation where I can cover more of them.
+- This initial thing is not full Laegna Voyage - I won't solve every equation of relativity and space growth ratios. Rather I linearize this type of system and find out what can be right or wrong. This will be very symmetric.
+
 # Laegna Algorithm Consciousness
 
 We need to map infinities.
