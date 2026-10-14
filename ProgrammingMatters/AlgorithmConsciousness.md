@@ -1,3 +1,40 @@
+# Laegna Symmetries to be embodied.
+
+The physical coordinates we want to measure are the infinity and zero terms available in physics.
+
+Planck time and distance - the infinitesimal of smooth world:
+- This is the "I" of the smooth world.
+
+1 g - the human scope:
+- Because for infinity-zero symmetries, arbitrary unit size must be always chosen;
+- 1 g is the synchronization unit which can be used for human-centric Yggdrasil trunk selection / unit scope.
+  - Laegna definition has that "1" (unit) is human scope. This decides the curvature for locating infinity and zero in appropriate disproportion.
+
+Human scope anchors - I would track where they go:
+- 1 m - human size approximator.
+- 40 000 km - earth diameter approximator.
+- audible sound, visible light, touchable density etc roughly convert to these units.
+
+Infinity anchors:
+- At scope of 1g, distances relative to observer at origin relate into smallest-rank infinity; one light year is probably the smallest infinite unit, altough it's very relative.
+- The absolute horizon which involves expansion of Universe is the maximum infinity, an ever-escaping target.
+  - To live in heaven-consistent, infinity-compatible way, is to accelerate more and more.
+
+Infinite ranks:
+- Planck constants: altough in X range they are zero, they are infinities of Z range, somewhere at ZE and ZEEEE.
+  - Quantum units are right under this constant.
+- 1 light year: smallest infinity of X range, 1 digit E (XE).
+- 16 billion light years: the infinity where X range ends, 4 digit E (XEEEE).
+  - This range exists in expanding space;
+    - in exponential coordinate systems, every object must accelerate to stay in linear movement;
+      - expanding space becomes static.
+
+We see expansion as unfolding fractal.
+
+Laegna has space curvature integral in numbers, but exact parameters are needed to map it to actual curvature properly.
+
+---
+
 I start again again.
 
 Without the part below three lines.
