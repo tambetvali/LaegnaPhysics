@@ -30,7 +30,7 @@ These can be very basic parts of initial physics.
 
 To make it invariant as we go on we now want the lower ranks:
 
-| Symbol | Rank | Number | symbol | rank | number |
+| Rank | Symbol | Number | rank | symbol | number |
 |---|---|---:|---|---|---:|
 | -I | -EEEE | -16 000 000 000 | -i | -IIII | -0.0000000000625 |
 | -O | -EEE | -40 000 | -o | -III | -0.000025 |
