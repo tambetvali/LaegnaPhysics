@@ -1,157 +1,133 @@
-Currently, initial data is here. I have to check some physics.
+I just start again.
 
-This is right now a quantum programming skill:
-- I have to consider ways to melt these physical parameters to their quantum components, in math and not straight physical sense.
+# Laegna Algorithm Consciousness
 
-I want to maps on physics, a scaled and similar spatial curvature as in original physics - I have to verify that the relations twist the space into something nice.
-- This initial trial is not discrete physics:
-  - My work helps to geometrize physics, higher spaces etc.
-  - Einstein, Maxwell, Hilbert required heavy abstract consciousness - my work is based on simple, primitive relations between numbers.
+We need to map infinities.
 
-# Let's try to create an Algorithm for Laegna Physics by Simp
+These are basic infinities
 
-Our idea:
-- Let's create a space curvature with properties visible in numbers;
-  - Numbers are the sole base of this beyond the relativity theory and laegna math themselves, such kind of simplification in Laegna is called "iq" - recreating quality from minima of information. "eq" is creating it from non-local, goal-based data or mixed i and e.
- 
-Our numeric data:
+##### ~0.97 light years => 1 light year. horizon 1.
 
-## Number 1:
+Let's call it *E*, rank-1 infinity.
 
-> A human moving through linear space eventually encounters a limit where ordinary coordinates can no longer continue unchanged.
+##### Earth circumference 40 000 km
 
-Our simplified model has constant "1" - 1 light years.
+This is second expansion to the series.
 
-~0.97 light years
+##### ~16,000,000,000 => horizon 4.
 
-Examples:
-- Rindler horizon
-- relativistic acceleration horizon
-- hypothetical ultra-massive body horizon
+Let's call it EEEE, rank-3 infinity.
 
-### Number 1 is born of "g" - unit size is specific to measurer disposition, such as ecosystem's point mass relations etc
+## Infinity Rank conclusion
 
-This is related to g: Earth gravity g is basis of "linear scale", "human scale", where g rather than human's mass and size decides infinitesimal and horizon relations; probably, not very distorted theory of visible light, audible sound etc., could be based on "g" rather than inventing new and new ones on arbitrary special cases.
+Without units, let's have these ranks:
+- **I**: 1
+- **O**: 20
+- **A**: 40 000
+- **E**: 16 000 000 000
 
-https://github.com/tambetvali/LaegnaPhysics/blob/main/LaegnaG.md
+These can be very basic parts of initial physics.
 
-#### 1. Introduction: Gravity as a Laegna-Class Transformation
+To make it invariant as we go on we now want the lower ranks:
 
-> We can see three components:
-> - Component of "2" - rank 2 has it, being the first where there are two octaves.
->   - This is so related to switching from base-2 to base-4, from linear to exponential complexity, that I call it a "sign" expressed by whether, "1" or "2" is the first number - altough it's a part of number itself as well, the first two numbers are more base-2 compatible and seem a discretely lower rank.
-> - Component of "0" - rank 0.5 does not have it
+| Symbol | Rank | Number | symbol | rank | number |
+|---|---|---:|---|---|---:|
+| -I | -EEEE | -20 | -i | -IIII | -0.05 |
+| -O | -EEE | -40 000 | -o | -III | -0.000025 |
+| -A | -EE | -16 000 000 000 | -a | -II | -0.0000000000625 |
+| -E | -E | -1 | -e | -I | -1 |
+| +I | +E | 1 | +e | +I | 1 |
+| +O | +EE | 20 | +a | +II | 0.05 |
+| +A | +EEE | 40 000 | +o | +III | 0.000025 |
+| +E | +EEEE | 16 000 000 000 | +i | +IIII | 0.0000000000625 |
 
-Copied part from: #### 1. Introduction: Gravity as a Laegna-Class Transformation
+For our own experimentation, this becomes equivalent of Laegna physics SI table of basic ranks:
+- We can work with decimals
 
-In Laegna, gravity is not a number.  
-It is a **digit pattern** describing how acceleration distributes across octaves.
+---
 
-We define a metaparameter:
+# Theory part
+
+Let's define Laegna octaves:
+
+Laegna Real Octaves:
+- 1D: 1, **2**, 4, 8, 16..
+- 2D: 1, 4, **16**, 1024, 4048
+
+Decimal Pseudooctaves - Laegna understanding based on ranks:
+- I: 1 - 0 * 1
+- O: 1 0 - 1 * 1
+- A: 1 00 00 - 2 * 2
+- E: 1 000 000 000 - 3 * 3
+
+## Continuous Exponential Rank Function
+
+### Mathematics
+
+Forward conversion:
 
 $$
-\text{LaegnaG}(k)
+e(n)=10^{n^2}
 $$
 
-which constructs a gravity model of **order $k$**, using digit sequences of increasing resolution.
+Reverse conversion for $x\geq 1$:
 
-The orders are:
+$$
+e^{-1}(x)=\sqrt{\log_{10}(x)}
+$$
 
-- Order **U** 0: $\{1\}$; rank 0.5 above. 1 * 1 digits. 1 components ("1"). Notice: 0 is outside normal number range.
-- Order **I** 1: $\{1,0\}$; rank 1.0 above. 1 * 1 + 1 digits. 2 components ("1", "0").
-- Order **O** 2: $\{2,1,0\}$; rank 1.5 above. 1 * 2 + 1 digits. 3 components.
-- Order **A** 3: $\{2,2,1,1,0\}$; rank 2.0 above. 2 * 2 + 1 digits. Notice: 3 is irregular number.
-- Order **E** 4: $\{2,2,2,2,1,1,1,1,0\}$; rank 3.0 above. 4 * 2 + 1digits.
-- Order 5: (defined below)
+Thus, $n\geq0$ maps to $x\geq1$, and the inverse recovers the original rank.
 
-Each order increases:
+Series: 1, 10, 10000, 1000000000, ...
 
-- **resolution**
-- **symmetry**
-- **octave depth**
-- **thermodynamic expressiveness**
+Exponent orders: 0, 1, 4, 9, ...
 
-Gravity becomes a **linear pattern** because each order is a **refinement of the same invariant essence**.
+### Python
 
-## 16,000,000,000
+```python
+import math
 
-We will compose, in this initial version:
-- 16 as third-rank binary growth (third second-order octave).
-  - Composes to 3 change lines, 8 steps, 2 * 2 = 4; 4 * 4 = 16; second-order octave: 1, 4, 16; thus second-order rank 3 (and second order actually is strong modifier of infinity angle, such as Big-O rank / comparative value).
-
-```
-000
-000
-000
+e = lambda n: 10 ** (n * n)
+e_inv = lambda x: math.sqrt(math.log10(x))
 ```
 
-Decimal group is 3 for zeroes, and number of them is decimal rank:
-- Rank in first-order decimal: "0", "00", "000" - personal, traditional, civilizational rank of decimal system.
-- Second-order ranks:
-  - "0" => "00" => "000": personal rank, three ranks of first order.
-  - "00" => "00 00" => "000 000": traditional rank, three ranks of second order.
-  - "000" => "000 000" => "000 000 000": civilizational rank, three ranks of third order.
-  - "0", "00 00", "000 000 000": metarank, diagonal linearization - from 2D ranks to 1D projection.
+### JavaScript
 
-# Speed of Light
+```python
+const e = n => 10 ** (n * n);
+const e_inv = x => Math.sqrt(Math.log10(x));
+```
 
-Let's decompose:
-- 299 792 458 m / s
+## Continuous Octave Growth Function
 
-A binary system would count:
-- 0 **I** becomes ***U***-like syndrome, which zooms down the entire infinity.
-- 1 **O** is between 0 and 100 000 000.
-- 2 **A** is between 100 000 000 and 200 000 000.
-- 3 **E** is between 200 000 000 and 300 000 000 - the light speed.
+Octave growth doubles with each rank: octave 0 = 1, octave 1 = 2, octave 2 = 4, octave -1 = 0.5, and octave -2 = 0.25.
 
-## We utilize vector calculus:
+### Mathematics
 
-When you perform operations on vectors, you are moving up the structural hierarchy:
-• Scalar Operations (Rank 0): You manipulate independent data points (\(2 + 3 = 5\)).
-• Vector Operations (Rank 1): You manipulate directional arrows.
-• Matrix/Tensor Operations (Rank 2): You manipulate spaces and transformations.
+Forward conversion:
 
-## Rank 1 operation on infinity
+$$
+o(n)=2^n,\qquad n\in\mathbb{R}
+$$
 
-0, 1, 2, 3: this is the series we have.
+Reverse conversion:
 
-3, on fractal, projects symmetrically to 4:
-- Project 4: the second rank.
-- Substract 1 on exponent-linearized scale: the first rank.
+$$
+o^{-1}(x)=\log_2(x),\qquad x>0
+$$
 
-Let's take a differential, take it to next octave (multiply by 2) and take first integral of the result.
+### Python
 
-## Half-Step Mapping: 0..3 ↔ 1..4
+```python
+import math
 
-Forward (input → output):
-1. Divide the input by 2.
-2. Add 0.5.
-3. Multiply by 2 to get the output integer.
+o = lambda n: 2**n
+o_inv = lambda x: math.log2(x)
+```
 
-Formula: y = 2(x / 2 + 0.5) = x + 1
+### JavaScript
 
-Backward (output → input):
-1. Divide the output by 2.
-2. Subtract 0.5.
-3. Multiply by 2 to get the input integer.
-
-Formula: x = 2(y / 2 - 0.5) = y - 1
-
-Examples:
-- Forward: 0 → 1, 1 → 2, 2 → 3, 3 → 4
-- Backward: 1 → 0, 2 → 1, 3 → 2, 4 → 3
-
-## Size of Earth
-
-Equatorial Circumference: 40,075 km
-
-- We flip it to 40 000.
-
-# Laegna conversion table
-
-Second Digit: We have chosen four background consistencies:
-- Internal 1-digit: From constant of Planck to size of Earth - zero is simply, mentally, equated with planck I do no more work in this.
-- External 3-digit: Next 3 values are light speed accumulations.
-
-Light speed:
-- I: not 
+```javascript
+const o = n => 2 ** n;
+const o_inv = x => Math.log2(x);
+```
