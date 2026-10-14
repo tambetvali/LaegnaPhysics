@@ -15,7 +15,10 @@ I asked CoPilot:
 > 
 > Explain, why g becomes linear in physics in such way that it arrives to such linear pattern?
 
-# Laegna G: Orders of Gravity Resolution and the Growth of Physical Complexity
+# ䷋ Laegna G: Orders of Gravity Resolution and the Growth of Physical Complexity
+
+> Symbolically: small g is heaven above Earth.
+
 ### A conceptual physics article for LaegnaPhysics
 
 ---
