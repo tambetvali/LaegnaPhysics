@@ -1,3 +1,65 @@
+I start again again.
+
+Without the part below three lines.
+
+What I actually want:
+
+Laegna numbers 1 to 8 as digits.
+- 1 to 4 gives smooth curvature from human scope to light year. This is based on linear space.
+- 4 to 8 gives as smooth curvature from light year to 16 billion in exponential space.
+
+Then it could be:
+- 1 m as rank 1 of first order
+- 1 light meter as rank 2 of first order
+- 1 billion becomes rank 2 of first order but gets converted to 1 
+- 40 000 km
+- 1 light year
+- 16 billion light years
+
+1m: That’s about 3.34 nanoseconds of light travel time.
+- Light second: 299,792,458 meters
+
+How much is $3.(3) * 10^{-9}$ light seconds then?
+- The relative error is about 0.0692%.
+- So the approximation is too short by approximately 0.6918066667 millimeters, or 691.8066667 micrometers.
+
+So let's say:
+- 3.(3) nanoseconds of light travel is rank 1. Roughly 1m.
+- 3.(3) seconds: That is approximately 999,308.193333 km, or 999,308,193.333 meters.
+
+We can really work with ranked system now:
+
+Time unit: 3.(3) => 1 for seconds, nanoseconds etc.
+- This multiplied by actual 3 is 10.
+- x + y + sqrt(x * y) - if x and y are 3.(3), this operation gives 10.
+
+This is specifically what I mean:
+- 10 / 3 = 3.(3)
+- 10 / 3.(3) = 3
+
+I can see external growth factor is 3.(3) if internal is 3 and vice versa:
+- linear space sees it's own 3 as 3 and the other three as 3.(3).
+- exponential space does it vice versa.
+
+So if I use 2-channel numbers, I can actually catch something about the numbers of zeroes one can add:
+- And how they affect if time breaks into space and vice versa.
+
+Well after these basic calculus I go now but I can see the roughly round numbers:
+- Let's construct the initial system soon, where Laegna is able to find those round numbers fast and show the symmetries.
+- Let's extend the model to have:
+  - 14 as static space.
+  - 48 as proper exponential factor to work on both gravity and light speed, showing the growing space as static travellable realm.
+
+Laegna Ferry goes on:
+- For matter and spirit, we need this speed.
+
+Yang is travelling away. Network is not => Heaven away; network is when Earth and Heaven can be travelled worth and back:
+- So in addition to finding ideal growth function, we need to find ideal sinus-cosinus wave for travelling forth and back in way which forms networks.
+
+I promise I will be *soon much more into the space math*.
+
+---
+
 I just start again.
 
 Okay now the first part is finished:
