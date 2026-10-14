@@ -32,9 +32,9 @@ To make it invariant as we go on we now want the lower ranks:
 
 | Symbol | Rank | Number | symbol | rank | number |
 |---|---|---:|---|---|---:|
-| -I | -EEEE | -20 | -i | -IIII | -0.05 |
+| -I | -EEEE | -16 000 000 000 | -i | -IIII | -0.0000000000625 |
 | -O | -EEE | -40 000 | -o | -III | -0.000025 |
-| -A | -EE | -16 000 000 000 | -a | -II | -0.0000000000625 |
+| -A | -EE | -20 | -a | -II | -0.05 |
 | -E | -E | -1 | -e | -I | -1 |
 | +I | +E | 1 | +e | +I | 1 |
 | +O | +EE | 20 | +a | +II | 0.05 |
