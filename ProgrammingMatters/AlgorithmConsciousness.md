@@ -1,3 +1,13 @@
+Currently, initial data is here. I have to check some physics.
+
+This is right now a quantum programming skill:
+- I have to consider ways to melt these physical parameters to their quantum components, in math and not straight physical sense.
+
+I want to maps on physics, a scaled and similar spatial curvature as in original physics - I have to verify that the relations twist the space into something nice.
+- This initial trial is not discrete physics:
+  - My work helps to geometrize physics, higher spaces etc.
+  - Einstein, Maxwell, Hilbert required heavy abstract consciousness - my work is based on simple, primitive relations between numbers.
+
 # Let's try to create an Algorithm for Laegna Physics by Simp
 
 Our idea:
@@ -83,3 +93,65 @@ Decimal group is 3 for zeroes, and number of them is decimal rank:
   - "000" => "000 000" => "000 000 000": civilizational rank, three ranks of third order.
   - "0", "00 00", "000 000 000": metarank, diagonal linearization - from 2D ranks to 1D projection.
 
+# Speed of Light
+
+Let's decompose:
+- 299 792 458 m / s
+
+A binary system would count:
+- 0 **I** becomes ***U***-like syndrome, which zooms down the entire infinity.
+- 1 **O** is between 0 and 100 000 000.
+- 2 **A** is between 100 000 000 and 200 000 000.
+- 3 **E** is between 200 000 000 and 300 000 000 - the light speed.
+
+## We utilize vector calculus:
+
+When you perform operations on vectors, you are moving up the structural hierarchy:
+• Scalar Operations (Rank 0): You manipulate independent data points (\(2 + 3 = 5\)).
+• Vector Operations (Rank 1): You manipulate directional arrows.
+• Matrix/Tensor Operations (Rank 2): You manipulate spaces and transformations.
+
+## Rank 1 operation on infinity
+
+0, 1, 2, 3: this is the series we have.
+
+3, on fractal, projects symmetrically to 4:
+- Project 4: the second rank.
+- Substract 1 on exponent-linearized scale: the first rank.
+
+Let's take a differential, take it to next octave (multiply by 2) and take first integral of the result.
+
+## Half-Step Mapping: 0..3 ↔ 1..4
+
+Forward (input → output):
+1. Divide the input by 2.
+2. Add 0.5.
+3. Multiply by 2 to get the output integer.
+
+Formula: y = 2(x / 2 + 0.5) = x + 1
+
+Backward (output → input):
+1. Divide the output by 2.
+2. Subtract 0.5.
+3. Multiply by 2 to get the input integer.
+
+Formula: x = 2(y / 2 - 0.5) = y - 1
+
+Examples:
+- Forward: 0 → 1, 1 → 2, 2 → 3, 3 → 4
+- Backward: 1 → 0, 2 → 1, 3 → 2, 4 → 3
+
+## Size of Earth
+
+Equatorial Circumference: 40,075 km
+
+- We flip it to 40 000.
+
+# Laegna conversion table
+
+Second Digit: We have chosen four background consistencies:
+- Internal 1-digit: From constant of Planck to size of Earth - zero is simply, mentally, equated with planck I do no more work in this.
+- External 3-digit: Next 3 values are light speed accumulations.
+
+Light speed:
+- I: not 
