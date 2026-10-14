@@ -1,3 +1,8 @@
+Warning:
+- This is part of very early work;
+  - CoPilot did not understand it's initial calculus because we don't have the session.
+  - Please use at your own risk - most probably, there will be *complete rewrite* after the actual calculus is done; yet here are the ideas I associated - why I want this number and what I will check, is all kind of emulated. This is agile iterative progress in early phase.
+
 ![Gg](Graphics/Gg.png)
 
 <br>
