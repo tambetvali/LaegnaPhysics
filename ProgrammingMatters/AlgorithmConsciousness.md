@@ -1,3 +1,26 @@
+🚧 ***This page is under construction.***
+
+I can tell you something about this document in advance:
+- Mapping the relativity theory spatial curvature relations;
+  - I now highly believe *laegna can map whole theory of relativity in way that the system is logical and linear in terms of Laegna*.
+
+Why?
+
+Because some playing with numbers and equations revealed:
+- With information now gathered, operations behave like expected *very much*.
+
+I would now estimate:
+- Right now, Laegna Physics will be the central interest and Laegna equivalent SI table appears very soon;
+  - what makes the scope physics complex now, will be gone.
+    - that this does not happen: it *really* already needs something *highly improbable*.
+
+I do not navigate the trial and error in realm of real experimentation:
+- I do navigate the world of physical calculation in way I would map reality:
+  - and this trial and error shows Laegna Systems will be highly consistent and way simpler.
+
+Until this don't mind:
+- 🚧 This page is under construction.
+
 # Laegna Symmetries to be embodied.
 
 The physical coordinates we want to measure are the infinity and zero terms available in physics.
@@ -94,6 +117,20 @@ Yang is travelling away. Network is not => Heaven away; network is when Earth an
 - So in addition to finding ideal growth function, we need to find ideal sinus-cosinus wave for travelling forth and back in way which forms networks.
 
 I promise I will be *soon much more into the space math*.
+
+# Doubling and other effects
+
+Well I start to see.
+
+At limit of infinity:
+- Doubling the distance from origin starts to halve the relative depth of object as seen from origin coordinate system.
+- So, at infinity, each octave of local distance relation is reverse octave towards infinity.
+
+This is evident that at one light year:
+- Closer to here, objects are more linear.
+- More distant, they get more curved.
+
+One light year thus, is normal infinity by it's curvature.
 
 ---
 
