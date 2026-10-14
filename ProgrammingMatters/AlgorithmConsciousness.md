@@ -62,3 +62,24 @@ Each order increases:
 - **thermodynamic expressiveness**
 
 Gravity becomes a **linear pattern** because each order is a **refinement of the same invariant essence**.
+
+## 16,000,000,000
+
+We will compose, in this initial version:
+- 16 as third-rank binary growth (third second-order octave).
+  - Composes to 3 change lines, 8 steps, 2 * 2 = 4; 4 * 4 = 16; second-order octave: 1, 4, 16; thus second-order rank 3 (and second order actually is strong modifier of infinity angle, such as Big-O rank / comparative value).
+
+```
+000
+000
+000
+```
+
+Decimal group is 3 for zeroes, and number of them is decimal rank:
+- Rank in first-order decimal: "0", "00", "000" - personal, traditional, civilizational rank of decimal system.
+- Second-order ranks:
+  - "0" => "00" => "000": personal rank, three ranks of first order.
+  - "00" => "00 00" => "000 000": traditional rank, three ranks of second order.
+  - "000" => "000 000" => "000 000 000": civilizational rank, three ranks of third order.
+  - "0", "00 00", "000 000 000": metarank, diagonal linearization - from 2D ranks to 1D projection.
+
