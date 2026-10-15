@@ -1,3 +1,7 @@
+[LaTecimal System Docs](https://github.com/tambetvali/LaTecimalSystem/blob/main/README.md):
+- This will be a journey to decimals - somewhat parallel to what is contained here; a journal add-on. it's my growing philosophy on decimals.
+
+---
 
 ![Laegna Ranks](Gfx/LaegnaRanks.png)
 
