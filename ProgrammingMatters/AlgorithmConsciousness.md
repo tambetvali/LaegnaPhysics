@@ -1,3 +1,26 @@
+Well, now our theoretical physics gets philosophical.
+
+Laegna wants to know - where are the infinities, how large, and what is the pattern.
+- Laegna letters have their own terms for associations.
+- How physics gets associated is not essence of physics itself anymore; but it's the essence of representation.
+- Laegna has strong psychological-symbolic culture and so, we can easily associate everything we find out; with alchemy, spirit, religion.
+  - This is based on essential mental processing; quality of our knowledge rather than a thing.
+  - It's the way we optimize knowledge according to human-centric, goal-oriented logic; human-centric is not human ego, but the human culture from hounds of hell, to everything beyond.
+
+Today, my best task is to start asking questions which relate certain Laegna relations to physical ones:
+- Curvatures.
+- Horizons.
+- Infinitesimals.
+- Unit size.
+
+We operate in time, space, ranks, vibrations. As usual: just **Laegna**.
+- You can call my LaeChing / I Ching associations and Laegna Ferry, Freya and two cats: all this is ***SpiReason***, an artistic-symbolic spirit of Laegna; processor rather than the processed.
+- Classic math is strong accompanyon here, we flow with it - synchronicity makes it directly melt; if S is curved for us - it's curved for them, as well.
+
+
+
+---
+
 🚧 ***This page is under construction.***
 
 I can tell you something about this document in advance:
