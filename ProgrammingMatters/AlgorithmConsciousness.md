@@ -19,8 +19,6 @@ We operate in time, space, ranks, vibrations. As usual: just **Laegna**.
 
 ---
 
-🚧 ***This page is under construction.***
-
 Let's try to find some missing constants..
 
 We are interested about curvature.
