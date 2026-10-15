@@ -17,7 +17,74 @@ We operate in time, space, ranks, vibrations. As usual: just **Laegna**.
 - You can call my LaeChing / I Ching associations and Laegna Ferry, Freya and two cats: all this is ***SpiReason***, an artistic-symbolic spirit of Laegna; processor rather than the processed.
 - Classic math is strong accompanyon here, we flow with it - synchronicity makes it directly melt; if S is curved for us - it's curved for them, as well.
 
+---
 
+🚧 ***This page is under construction.***
+
+Let's try to find some missing constants..
+
+We are interested about curvature.
+
+Let's say initial curvature is, in Laegna terms, **2**:
+- Two-digit Laegna base-4 or base-2 number has curvature 2.
+
+Let's say final curvature is, in Laegna terms, **4**:
+- Four-digit base-4 number definitely has this.
+
+> Here is 2-digit number (could be base-2 or base-4):
+> OA
+> 
+> Here are two 4-digit numbers:
+> OOAA - compatible at band 2, higher band, where it's the second octave rank (next octave of number length 1 => 2 => 4; relatively second from 2 (OA) is 4 (OOAA)).
+> OAOA - same compatibility, but at band 1.
+>
+> We can see curvature factor 2 is similar to:
+> - One can measure only speed or position at time.
+> - 4-digit number can always be compatible only at first, or second of two channels.
+>
+> Here is 1-digit number, rank 1:
+> A
+>
+> Here is 2-digit number, rank 2:
+> AA
+>
+> Here is 4-digit number, rank 4:
+> AAAA
+>
+> All these last 3 examples are *equal on both channels*, altough it contains other R 2 => 4 / rank 2 => 3 example.
+> - R is digit length, number's positional value. Small letters after comma of R can contain the rest of number, so that rank would equal the number itself with precision.
+>
+> 1 is prime component of any number, and to that degree any one-digit number can be represented as 2 or 4 digit number on both bands. 2 digit number can be represented as 4 digit number iff it can be represented as 1 digit number, i.e. digits equal.
+
+So, we can see how curvatures 2 and 4 relate in Laegna.
+
+What is more interesting:
+- Simply by scrolling through octaves, we can change the rank of this curvature; with small digits we can make curvatures equal while ranks differ as was shown before:
+  - So the letter count relations encode curvature's basic parameters; laegna number system establishes that all curvatures are relative to octaves; and finally octave (where Laegna has not only linear octave, but I use actual complex octaves describing a set of basic transformations where range remains invariant but order of components is changing; in Laegna this change is seen linear - altough this sounds strange, *it does not sound stranger than Laegna's spatial structure* and *it's unavoidable through any laegna operations and numbers, as constructed from itself, maybe not as pointing to underlying realities and entities which might be beyond - but this is quality, not quantity*).
+
+So:
+- That Schroedinger equation contains d, limit to zero, in lower and uppercase, shows we can directly move Laegna zero (infinitesimal) to coherence with quantum physics.
+  - We can have zero.
+  - $6.62607015 × 10^-34 m^2 kg / s$
+- That 1 g is human gravity, and actually determines horizon and planck relations based on our curvature, is our unit size: 1 g - 1 Earth gravity - is the basic "human" unit in our physical system; to avoid excess rounding, we look at stable and round constants in nearby area to relate first - another alien would change precisely that coordinate, which does not change the structure of infinity, but observer's position and with 1 g, even ecosystem and planetary life-keeping force comes into play and decides just so much.
+  - We can have unit. Laegna unit is "1", and unit of unit now is "g".
+  - Standard Value: Defined as $9.80665\text{ m/s}^2$ $(32.174\text{ ft/s}^2$).
+- That horizon is 1 light year, superhorizon is 16 billion light years:
+  - According to their internal coordinates, we can locate infinities in relative systems.
+
+Now, for complete laegna system:
+- Locate Infinity E (such as light speed at Z, one light year at X within $g=1$ rank, infinity ranks EE, EEE etc.; EEEE - infinity superdomain.
+  - Each from E to EEEE is compatible to Laegna definition of E:
+    - Altough line does not become straight, which happens when body is completely flat; these numbers are precisions towards calculating the limit value x → ∞; Laegna is not idealized system of concrete infinity, but automatable rank system to approach it in balanced growth; this was only achievable if E, EE, EEE, EEEE are subdomains, symmetric ranks of x → ∞ precision; for example one light year appears to be limit to infinity in standard spaceship, while 16 billion light years appear as theoretical border and the spaceship is yet to be imagined - normally, in Laegna, 4-digit system is very often meant to compress that.
+- Locate Finity A (such as finger or cm), finity ranks AA (such as human), AAA (such as earth) etc.
+- Locate Inverse Finity O - it's ranks should seem as locally symbolic inversion of each scope; for finger, sand grain of sand might seem opposite; for human a cell is somewhere in middle, and what relates to cell downwards as human relates upwards - seems it's relative inverse; for earth, as you need almost telescope to view it, it should be something deep under microscope, because the Earth is an atomic structure and as it's size, it's precision should be seen in 3rd rank.
+- Locate Inverse Infinity I - this is where space gets smooth, the infinitesimal, dot below, an attribute to x → 0. Planck's constants show lower zero at linear space, whose upper zero is horizon, speed of light, or the graditude by which we do not see Earth is round or clock is moving - in terms of Earth's surface volume or clock's time, infinitesimal is very large and at the opposite - is the horizon, the 1 light year, infinity of 1 g. Now, in relation to spatial expansion, maybe we find tesimal so small that expansion seems like shrinking down - this smallness, in particular direction, a logarithm in terms of which everything is moving: then this is the planck's constant in 4th rank.
+
+Then, we need curvature:
+- Create supersystem where octave operations balance 4 ranks to be straight.
+- Calculate reasonable inner curvature to get precision, taking roots of this curvature and making sure that every relation fits.
+
+This is where the magic starts.
 
 ---
 
