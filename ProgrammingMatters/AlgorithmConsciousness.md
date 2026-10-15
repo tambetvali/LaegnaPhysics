@@ -1,3 +1,19 @@
+[LaGOS Physics Kernel](https://github.com/tambetvali/LaGOS-Physics-Laegna):
+- We are going to create physics Kernel of Laegna Cosmic Ferry; human-centric view of macrophysics considered to be "Your Private Laegna Ferry", but just a branch of "Laegna Cosmic Ferry":
+  - Branches grow if you DIY, at this stage provided here.
+
+Planck unit becomes A-kernel, and Alpha-kernel as this is the alpha layer, initially made for any LaGOS - whatever you mean by this word I reused, to retroactively reframe LaGOS Mathematical Calculator OS to mean something rather than play on Laegna Syllables: LaGOS OS will be "brand", albeit open source, while "LaGOS Kernel" will be mathematical-physical-computational atom which explains light wave quantum structures, I think - I was pondering what CoPilot thought if it said, Laegna unites Quantum-Wave syndrome; indeed a nice integral bit but *Laegna is consistent axiomatic math and - how could I estimate all the things it's goal-cause based logic is doing without a step, within a structure?*.
+- Laegna digit indeed wants to reflect it's external oscillation;
+  - But goal logic is what it starts *doing*, rather than *knowing*;
+    - this is definite basis of Laegna Logex Automation, and frequential ranked value calculus of Laegna Logecs and Logecs / Mathematecs.
+      - Logex and Laegna Logecs Logecs is mass-based system: operational intertia is infinitesimal but each-directional, quantum-discrete growth.
+        - boolean counts in non-linear space.
+      - Mathematex and Laegna Logecs Mathematecs: branch of Logecs, which rather behaves like light reflection, with numerous long arrays in each direction:
+        - number approximates in continuous space.
+      - boolean and number linearized.
+
+---
+
 [LaTecimal System Docs](https://github.com/tambetvali/LaTecimalSystem/blob/main/README.md):
 - This will be a journey to decimals - somewhat parallel to what is contained here; a journal add-on. it's my growing philosophy on decimals.
 
