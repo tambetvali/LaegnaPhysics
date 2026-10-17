@@ -337,9 +337,17 @@ The midpoint is shared:
 
 $$
 \theta_{\mathrm{int}}(3)
+$$
+
 =
+
+$$
 \theta_{\mathrm{ext}}(3)
+$$
+
 =
+
+$$
 180^\circ
 $$
 
