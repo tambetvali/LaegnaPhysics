@@ -2,6 +2,13 @@
 
 <br>
 
+**Notice:** - both time and space need to be evaluated, because also in planck time what happens in 1 unit, 2, 4 or 8 units, or 16, are also in time relative to visible and real infinite symmetries; infinite distances can be immediately measured if:
+- For example let's put our infinity at rank 2.
+- If it's above rank 2 or close, in relation to 1 planck unit of time and space: downwards-linear model can be used.
+- If it's below rank 2, in relation to horizons and cooldown: upwards-linear model can be used.
+  - Going some octaves up or down, the models partially meet.
+  - Eternity of space and time can be modelled, which is the idea of "Flower of Life" symbolics, to account the specific idea in classics.
+
 The last macro-quality idea to be expressed by ChatGPT for you to get introduced:
 
 Imagine light speed, which stops time and makes space unidirectional is:
