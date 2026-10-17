@@ -1,3 +1,42 @@
+I have now studied some of this. I find I must explain one part of numbers before the next journal entries:
+- In this journal, we go, from bottom to top, through actual physical constants which are important in Laegna math.
+- Funny theorems start to matter and one is 0=1, R=T, 0=infinity => structural compability where one cannot be discerned from another, altough always use internally consistent paradigm - it's not visible structurally, in terms of complexity, because looking for system from outwards is the same as from inwards, fractal distance is *difference of how you look the acceleration*, and the acceleration is seen then: either from in to out or out from in.
+- There is one nuance of complexity which might affect thinking:
+  - Projecting from inside means zero is number and infinity is limit.
+  - Projecting from outside means infinity is number and zero is limit.
+  - In both projections, the limit can be considered a number, but it's deep, beyond-math construction is difference of 3-fold and 4-fold [Flower of Life](https://github.com/tambetvali/LaGOS-Physics-Laegna/tree/main/Lagenesis) - the historic counterpart of looking octave growth and seeding of the universe.
+    - People tell about flower of life:
+      - They see this in how octaves arrange in music, how the circular patterns of universe appear, and how this initial sequence propagates again and again in our fractal hologram.
+      - Often, they reason this rather intuitively - brain processing of rank 3 and external systems must be *probability-based*, because of the magnitude which appears internally.
+
+Notice what our numbers I, O, A, E mean:
+- Let's assume signed form. It must be symmetric to unsigned form.
+- I = 1, O = 2, A = 3, E = 4.
+  - Scaling these numbers by 2, it would seem next scale is 2, 4, 6, 8. True.
+    - Then comes 1, 4, **8**, 16.
+      - 2, 4, 8 only gives 4, 16, 16 * 16.
+        - It does not give 8.
+  - Laegna number rules:
+    - Numbers express degrees.
+    - First value through ranks: 1, 2, 4, 8.
+    - Second value through ranks: 1, 4, 8, 16. Notice 1, 4, 16 are second-order octaves while what is 8:
+      - It' down from 16 as much as 4 is up from 1.
+    - Now consider this:
+      - The numbers 1, 2, 3, 4 are symmetric through octaves:
+        - The 1, 2, 4 symmetric positions appear like normal numbers; at octave rank each is 2 times, 4 times, etc. times the previous number.
+        - The number 3 is *downwards as much as second number upwards from 1, but from the 3rd rank*.
+        - If 1 or 1 is integral 1, 2 or 4 is integral 2, 8 or 16 is integral 3 of 1D or 2D octave with recurring multiplication with 2 units or 4 square units.
+        - Each number now is constant as you scroll through integral-differential levels, whole numbers or not.
+
+Notice:
+- You can still do normal math as if they were literal numbers, one after another, because 3 is hologram replication to fractal to the actual process, and structurally equivalent.
+
+Yet this disctinction is critical when working with physics:
+- But it's structural invariant of normal numbers inside most operations, because:
+  - The first part of the external fractal, first tesimal of hilbert_external when projected to second half of digit scale (upper band of each digit) copies the whole fractal, and thus numerically where 0=infinity there 1=infinity + 1 and finally, in operations it's not important which 3 is there: it's important when giving meaning to operations.
+
+---
+
 [LaGOS Physics Kernel](https://github.com/tambetvali/LaGOS-Physics-Laegna):
 - We are going to create physics Kernel of Laegna Cosmic Ferry; human-centric view of macrophysics considered to be "Your Private Laegna Ferry", but just a branch of "Laegna Cosmic Ferry":
   - Branches grow if you DIY, at this stage provided here.
