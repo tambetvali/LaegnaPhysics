@@ -1,3 +1,7 @@
+![Physics Constants](Gfx/PhysicsConstants.png)
+
+<br>
+
 The last macro-quality idea to be expressed by ChatGPT for you to get introduced:
 
 Imagine light speed, which stops time and makes space unidirectional is:
