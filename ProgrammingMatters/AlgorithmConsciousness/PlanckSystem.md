@@ -1,3 +1,18 @@
+Notice: I will go to countryside tomorrow.
+
+When I am back, I will manage to go through all the criticism.
+
+There is a problem which looks like this:
+- People I don't know have read my texts.
+- Hopeful numbers of money and faith appeared.
+- They projected them to my texts.
+
+Why?
+
+Because my texts are straight to topic, but *after a few days* the AI always starts to answer me funny, distorted things about income, luck and disappointed people who did not gain what I did not promise.
+
+---
+
 This is under construction, because AI again, cannot give me the correct numbers and it's completely lost which calculations to use.
 
 I am angry about those losers who work out all the hypothesis *I do not mention in question* because they ask questions about physics and misunderstand the details as spiritual:
