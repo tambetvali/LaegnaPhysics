@@ -1,3 +1,5 @@
+![Structural Repetition](Gfx/StructuralRepetition.png)
+
 # Algorithm Consciousness: Structural Repetition Across Scales
 
 ## An Independent Mathematical and Scientific Companion to the Algorithm Consciousness FAQ
