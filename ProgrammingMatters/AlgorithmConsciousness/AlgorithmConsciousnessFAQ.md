@@ -1,3 +1,7 @@
+![Faq Image](Gfx/AlgorithmConsciousness.png)
+
+<br>
+
 # Algorithm Consciousness FAQ
 
 Here working, I found things which are yet unclear to an AI.
