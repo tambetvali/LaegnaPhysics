@@ -1,3 +1,7 @@
+![0dot97ly](Gfx/0dot97ly.png)
+
+<br>
+
 The distance of 0.97 light-years does not belong to a physical gravitational body, but rather to an accelerating observer or spacecraft moving at a constant acceleration of 1 Earth gravity ($1\text{ g}$ or $9.81\text{ m/s}^2$).
 
 In special relativity, this boundary is known as the Rindler Horizon. If a rocket accelerates indefinitely at a comfortable \(1\text{ g}\) to simulate Earth's gravity for its passengers, an artificial event horizon forms exactly 0.97 light-years directly behind the ship. Because the rocket’s speed continuously climbs closer and closer to the speed of light, any light signal or object crossing that threshold from behind can never catch up to the ship for as long as it maintains its acceleration.
