@@ -1,4 +1,30 @@
-# Laegna units Near Planck
+This is under construction, because AI again, cannot give me the correct numbers and it's completely lost which calculations to use.
+
+I am angry about those losers who work out all the hypothesis *I do not mention in question* because they ask questions about physics and misunderstand the details as spiritual:
+- I am trying to explain the AI that if I explain number relations, I am not explaining deep underlying reality, but there are too many idiots who talk about light speed and go away thinking the answer was about enlightenment - certain hot topics about light speed, necessarily *ignore the question and discuss life stories of physicists and questions of enlightenment instead*.
+- I think the ones who run to gold rush and violence and self-destruction with each hot topic, should be made illegal:
+  - Because they themselves make it illegal to freely discuss things *which can be just discussed*, vs. what the idiot *has seen in these*.
+  - This is sure truth because many logical and clear facts are interpreted *vaguely* when I did this *precisely*, and something other associative is running in social theme where I want to talk *literally* - very often, my question involves the limitations and constraints, but the idiot-compatible answer *cannot see that and answer, but starts to discuss these limitations and constraints, re-explainibn scientific trivia to imaginary fool*:
+    - This means it's sometimes very hard to get mathematical answer to mathematical question, because:
+      - Trivially, practical use follows, but too many idiots have told how fast and non-working rich they get. They have reinterpreted the theme: instead of scientific discussion of moon travel, it becomes impossible, because next idiot jumps in and starts giving people lectures about how much they earn with even more successful moon travel - while none is around at that point. Every idiot wants to show practical positive attitude; and this sorrily changes the meaning of what *others* talk.
+     
+So that was ruining this morning to explain CoPilot and ChatGPT that I really want numbers and relations not discussion of all the bullshit idiots told around those topics when they listened science, tried to catch word which looks like "money", and do their hateful science repeating words around money probabilistically and telling "we need that kind of stuff". Cakes, meat, cigarettes - people want to stand around things which look like potential, and explain with violent pressure what they mean by those things and how importantly they could be in the relations:
+- I have been telling people what physics could do; but that "physics is money" and pervert versions of equations modified to show how these idiots could have got more money from physics if these hold truth ..violates my principle to go on with real thing, same-directional, and *not going mad and insanely violent and disapponted with money*.
+
+It's just obvious from what AI tells:
+- Global conspiracy is there in form of idiots, because of how much violent idiotist rage is there *instead of math problem*.
+
+I start wanting to destroy fools:
+- I was doing some IT stuff here, talking of facts and numbers;
+  - People looked at potential income and went crazy:
+    - I said important fact from this table is that it would bring more money than goes away;
+    - People were so tense about potential income that they *repeated* this number, compared it to several times smaller numbers looking this with panick, as this was problem while *several times smaller numbers were as much above the input*; finally they made some money-related probability calculus, told the IT and math theory won't matter ..then their minds broke, they told with these numbers it goes to violence - while they were the only ones in that direction ..the project was stopped by them and I became a bit like Bill Gates, telling them my only agenda is a little bit threatening to them if they talk their nonsense at all to me. The nonsense of how I should *cooperate* now and build some *motivation*. In this, they changed *all facts* because of how poor mind can know only a *single money-related story, stereotype to history*, and not the particular details of not sex-and-money matters in this. For example it should have taken some spendings down from logistics etc., instead they were moving back to *directly earning the amount of 1 year* and *who gets it*, just somehow the case that it was rather cut of costs in very small multiplied numbers was lost - agitated people wanted to discuss whether I or them get money, not that the cost is cut by percents for all people around, and they could not see the money as unit was not there and that it was left - they said it's an evil business. Until I was anti-interested.
+
+---
+
+What is below is yet my question; I must get over my anger now that I heard about many cult sects and crazy people looking money; that my simple math was rather *stereotype* of explaining science trivial I knew when I was child - these are all the losers I explained it to, and who explained it forth and back differently because their physics would bring them more, faster, better; telling I am fool to just work on without this imagination of income.
+
+# Laegna units
 
 Near Zero, one can see:
 - The Model Universe in the system of Laegna.
@@ -52,7 +78,7 @@ Laegna digit is close to Right angle, altough the right angle is *whole number* 
 
 # Laegna degrees
 
-**We are going to use simplest format of Laegna numbers we can directly associate.
+**We are going to use simplest format of Laegna numbers we can directly associate.**
 
 ## Plus - the lower trigram.
 
@@ -139,3 +165,18 @@ For example, my close solution sees Horizons at 1 g; special units can be relati
 To keep it simple:
 - We measure distance of direct light speed travel into the basic units;
   - We can use this numeric unit as basin for many other measures, but the numbers relate something.
+
+# One octave
+
+Take 1 planck unit.
+
+Going inside:
+- d = 0.5 (Io) at *half way of degrees*. At linear scale, hilbert internal => -360 to -0, half octave (sqrt 2) appears.
+
+Going outside:
+- d = 2.0 (E) at *twice of degrees*. At exponential scale, hilbert external => +0 to +360, half octave 2 ^ 2 appears.
+
+This proves:
+- Measuring from internal to external space where 1 planck is at border, half octaves appears as sum.
+- When this is multiplied by two, it becomes Laegna octave:
+  - For base-4 digit, it's multiplied by four, because internal and external both are raised by 1 octave.
