@@ -1,3 +1,4 @@
+![Our Survival](Gfx/OurSurvival.png)
 
 # Civilization Ranks: Ethics, Engineering, and Theoretical Breakthroughs
 
